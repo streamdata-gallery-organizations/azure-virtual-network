@@ -1,6 +1,6 @@
 title: Streamdata Gallery
 url: azure-virtual-network.api.streamdata.gallery
-tag: Temmplate
+tag: Azure Virtual Network
 markdown: kramdown
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", ".DS_Store"]
 github_user: streamdata-gallery-organizations
