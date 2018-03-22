@@ -11,8 +11,8 @@ tags:
 - Stack Network
 - Network
 - Microsoft
-created: "2018-03-10"
-modified: "2018-03-10"
+created: "2018-03-21"
+modified: "2018-03-21"
 url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/apis.yaml
 specificationVersion: "0.14"
 apis:
