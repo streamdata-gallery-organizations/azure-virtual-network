@@ -9,8 +9,8 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/l
 x-kinRank: "10"
 x-alexaRank: ""
 tags: Azure Virtual Network
-created: "2018-05-21"
-modified: "2018-05-21"
+created: "2018-05-24"
+modified: "2018-05-24"
 url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/apis.md
 specificationVersion: "0.14"
 apis:
@@ -23,9 +23,9 @@ apis:
   tags: Application Gateways
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworkapplicationgatewaysapplicationgatewayname-delete-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networkapplicationgatewaysapplicationgatewayname-delete-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworkapplicationgatewaysapplicationgatewayname-delete-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networkapplicationgatewaysapplicationgatewayname-delete-openapi.md
 - name: Azure Virtual Network API Application Gateways Get
   x-api-slug: azure-virtual-network-api
   description: Gets the specified application gateway.
@@ -35,9 +35,9 @@ apis:
   tags: Application Gateways
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworkapplicationgatewaysapplicationgatewayname-get-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networkapplicationgatewaysapplicationgatewayname-get-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworkapplicationgatewaysapplicationgatewayname-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networkapplicationgatewaysapplicationgatewayname-get-openapi.md
 - name: Azure Virtual Network API Application Gateways Create Or Update
   x-api-slug: azure-virtual-network-api
   description: Creates or updates the specified application gateway.
@@ -47,7 +47,7 @@ apis:
   tags: Application Gateways
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworkapplicationgatewaysapplicationgatewayname-put-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networkapplicationgatewaysapplicationgatewayname-put-openapi.md
 - name: Azure Virtual Network API Application Gateways List
   x-api-slug: azure-virtual-network-api
   description: Lists all application gateways in a resource group.
@@ -57,9 +57,9 @@ apis:
   tags: Application Gateways
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworkapplicationgateways-get-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networkapplicationgateways-get-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworkapplicationgateways-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networkapplicationgateways-get-openapi.md
 - name: Azure Virtual Network API Application Gateways List All
   x-api-slug: azure-virtual-network-api
   description: Gets all the application gateways in a subscription.
@@ -69,9 +69,9 @@ apis:
   tags: Application Gateways
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidprovidersmicrosoftnetworkapplicationgateways-get-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidprovidersmicrosoft-networkapplicationgateways-get-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidprovidersmicrosoftnetworkapplicationgateways-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidprovidersmicrosoft-networkapplicationgateways-get-openapi.md
 - name: Azure Virtual Network API Application Gateways Start
   x-api-slug: azure-virtual-network-api
   description: Starts the specified application gateway.
@@ -81,9 +81,9 @@ apis:
   tags: Application Gateways
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworkapplicationgatewaysapplicationgatewaynamestart-post-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networkapplicationgatewaysapplicationgatewaynamestart-post-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworkapplicationgatewaysapplicationgatewaynamestart-post-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networkapplicationgatewaysapplicationgatewaynamestart-post-openapi.md
 - name: Azure Virtual Network API Application Gateways Stop
   x-api-slug: azure-virtual-network-api
   description: Stops the specified application gateway in a resource group.
@@ -93,9 +93,9 @@ apis:
   tags: Application Gateways
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworkapplicationgatewaysapplicationgatewaynamestop-post-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networkapplicationgatewaysapplicationgatewaynamestop-post-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworkapplicationgatewaysapplicationgatewaynamestop-post-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networkapplicationgatewaysapplicationgatewaynamestop-post-openapi.md
 - name: Azure Virtual Network API Application Gateways Backend Health
   x-api-slug: azure-virtual-network-api
   description: Gets the backend health of the specified application gateway in a resource
@@ -106,9 +106,9 @@ apis:
   tags: Application Gateways
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworkapplicationgatewaysapplicationgatewaynamebackendhealth-post-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networkapplicationgatewaysapplicationgatewaynamebackendhealth-post-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworkapplicationgatewaysapplicationgatewaynamebackendhealth-post-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networkapplicationgatewaysapplicationgatewaynamebackendhealth-post-openapi.md
 - name: Azure Virtual Network API Application Gateways List Available Waf Rule Sets
   x-api-slug: azure-virtual-network-api
   description: Lists all available web application firewall rule sets.
@@ -118,9 +118,9 @@ apis:
   tags: Application Gateways
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidprovidersmicrosoftnetworkapplicationgatewayavailablewafrulesets-get-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidprovidersmicrosoft-networkapplicationgatewayavailablewafrulesets-get-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidprovidersmicrosoftnetworkapplicationgatewayavailablewafrulesets-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidprovidersmicrosoft-networkapplicationgatewayavailablewafrulesets-get-openapi.md
 - name: Azure Virtual Network API Check Dns Name Availability
   x-api-slug: azure-virtual-network-api
   description: Checks whether a domain name in the cloudapp.net zone is available
@@ -131,9 +131,9 @@ apis:
   tags: Dns Name Availability
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidprovidersmicrosoftnetworklocationslocationcheckdnsnameavailability-get-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidprovidersmicrosoft-networklocationslocationcheckdnsnameavailability-get-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidprovidersmicrosoftnetworklocationslocationcheckdnsnameavailability-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidprovidersmicrosoft-networklocationslocationcheckdnsnameavailability-get-openapi.md
 - name: Azure Virtual Network API Express Route Circuit Authorizations Delete
   x-api-slug: azure-virtual-network-api
   description: Deletes the specified authorization from the specified express route
@@ -144,9 +144,9 @@ apis:
   tags: Express Route Circuit Authorizations
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworkexpressroutecircuitscircuitnameauthorizationsauthorizationname-delete-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networkexpressroutecircuitscircuitnameauthorizationsauthorizationname-delete-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworkexpressroutecircuitscircuitnameauthorizationsauthorizationname-delete-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networkexpressroutecircuitscircuitnameauthorizationsauthorizationname-delete-openapi.md
 - name: Azure Virtual Network API Express Route Circuit Authorizations Get
   x-api-slug: azure-virtual-network-api
   description: Gets the specified authorization from the specified express route circuit.
@@ -156,9 +156,9 @@ apis:
   tags: Express Route Circuit Authorizations
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworkexpressroutecircuitscircuitnameauthorizationsauthorizationname-get-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networkexpressroutecircuitscircuitnameauthorizationsauthorizationname-get-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworkexpressroutecircuitscircuitnameauthorizationsauthorizationname-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networkexpressroutecircuitscircuitnameauthorizationsauthorizationname-get-openapi.md
 - name: Azure Virtual Network API Express Route Circuit Authorizations Create Or Update
   x-api-slug: azure-virtual-network-api
   description: Creates or updates an authorization in the specified express route
@@ -169,7 +169,7 @@ apis:
   tags: Express Route Circuit Authorizations
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworkexpressroutecircuitscircuitnameauthorizationsauthorizationname-put-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networkexpressroutecircuitscircuitnameauthorizationsauthorizationname-put-openapi.md
 - name: Azure Virtual Network API Express Route Circuit Authorizations List
   x-api-slug: azure-virtual-network-api
   description: Gets all authorizations in an express route circuit.
@@ -179,9 +179,9 @@ apis:
   tags: Express Route Circuit Authorizations
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworkexpressroutecircuitscircuitnameauthorizations-get-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networkexpressroutecircuitscircuitnameauthorizations-get-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworkexpressroutecircuitscircuitnameauthorizations-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networkexpressroutecircuitscircuitnameauthorizations-get-openapi.md
 - name: Azure Virtual Network API Express Route Circuit Peerings Delete
   x-api-slug: azure-virtual-network-api
   description: Deletes the specified peering from the specified express route circuit.
@@ -191,7 +191,7 @@ apis:
   tags: Express Route Circuit Peerings
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworkexpressroutecircuitscircuitnamepeeringspeeringname-delete-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networkexpressroutecircuitscircuitnamepeeringspeeringname-delete-openapi.md
 - name: Azure Virtual Network API Express Route Circuit Peerings Get
   x-api-slug: azure-virtual-network-api
   description: Gets the specified authorization from the specified express route circuit.
@@ -201,7 +201,7 @@ apis:
   tags: Express Route Circuit Peerings
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworkexpressroutecircuitscircuitnamepeeringspeeringname-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networkexpressroutecircuitscircuitnamepeeringspeeringname-get-openapi.md
 - name: Azure Virtual Network API Express Route Circuit Peerings Create Or Update
   x-api-slug: azure-virtual-network-api
   description: Creates or updates a peering in the specified express route circuits.
@@ -211,7 +211,7 @@ apis:
   tags: Express Route Circuit Peerings
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworkexpressroutecircuitscircuitnamepeeringspeeringname-put-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networkexpressroutecircuitscircuitnamepeeringspeeringname-put-openapi.md
 - name: Azure Virtual Network API Express Route Circuit Peerings List
   x-api-slug: azure-virtual-network-api
   description: Gets all peerings in a specified express route circuit.
@@ -221,7 +221,7 @@ apis:
   tags: Express Route Circuit Peerings
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworkexpressroutecircuitscircuitnamepeerings-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networkexpressroutecircuitscircuitnamepeerings-get-openapi.md
 - name: Azure Virtual Network API Express Route Circuits Delete
   x-api-slug: azure-virtual-network-api
   description: Deletes the specified express route circuit.
@@ -231,7 +231,7 @@ apis:
   tags: Express Route Circuits
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworkexpressroutecircuitscircuitname-delete-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networkexpressroutecircuitscircuitname-delete-openapi.md
 - name: Azure Virtual Network API Express Route Circuits Get
   x-api-slug: azure-virtual-network-api
   description: Gets information about the specified express route circuit.
@@ -241,7 +241,7 @@ apis:
   tags: Express Route Circuits
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworkexpressroutecircuitscircuitname-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networkexpressroutecircuitscircuitname-get-openapi.md
 - name: Azure Virtual Network API Express Route Circuits Create Or Update
   x-api-slug: azure-virtual-network-api
   description: Creates or updates an express route circuit.
@@ -251,7 +251,7 @@ apis:
   tags: Express Route Circuits
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworkexpressroutecircuitscircuitname-put-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networkexpressroutecircuitscircuitname-put-openapi.md
 - name: Azure Virtual Network API Express Route Circuits List Arp Table
   x-api-slug: azure-virtual-network-api
   description: Gets the currently advertised ARP table associated with the express
@@ -262,7 +262,7 @@ apis:
   tags: Express Route Circuits
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworkexpressroutecircuitscircuitnamepeeringspeeringnamearptablesdevicepath-post-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networkexpressroutecircuitscircuitnamepeeringspeeringnamearptablesdevicepath-post-openapi.md
 - name: Azure Virtual Network API Express Route Circuits List Routes Table
   x-api-slug: azure-virtual-network-api
   description: Gets the currently advertised routes table associated with the express
@@ -273,7 +273,7 @@ apis:
   tags: Express Route Circuits
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworkexpressroutecircuitscircuitnamepeeringspeeringnameroutetablesdevicepath-post-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networkexpressroutecircuitscircuitnamepeeringspeeringnameroutetablesdevicepath-post-openapi.md
 - name: Azure Virtual Network API Express Route Circuits List Routes Table Summary
   x-api-slug: azure-virtual-network-api
   description: Gets the currently advertised routes table summary associated with
@@ -284,7 +284,7 @@ apis:
   tags: Express Route Circuits
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworkexpressroutecircuitscircuitnamepeeringspeeringnameroutetablessummarydevicepath-post-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networkexpressroutecircuitscircuitnamepeeringspeeringnameroutetablessummarydevicepath-post-openapi.md
 - name: Azure Virtual Network API Express Route Circuits Get Stats
   x-api-slug: azure-virtual-network-api
   description: Gets all the stats from an express route circuit in a resource group.
@@ -294,7 +294,7 @@ apis:
   tags: Express Route Circuits
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworkexpressroutecircuitscircuitnamestats-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networkexpressroutecircuitscircuitnamestats-get-openapi.md
 - name: Azure Virtual Network API Express Route Circuits Get Peering Stats
   x-api-slug: azure-virtual-network-api
   description: Gets all stats from an express route circuit in a resource group.
@@ -304,7 +304,7 @@ apis:
   tags: Express Route Circuits
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworkexpressroutecircuitscircuitnamepeeringspeeringnamestats-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networkexpressroutecircuitscircuitnamepeeringspeeringnamestats-get-openapi.md
 - name: Azure Virtual Network API Express Route Circuits List
   x-api-slug: azure-virtual-network-api
   description: Gets all the express route circuits in a resource group.
@@ -314,7 +314,7 @@ apis:
   tags: Express Route Circuits
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworkexpressroutecircuits-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networkexpressroutecircuits-get-openapi.md
 - name: Azure Virtual Network API Express Route Circuits List All
   x-api-slug: azure-virtual-network-api
   description: Gets all the express route circuits in a subscription.
@@ -324,7 +324,7 @@ apis:
   tags: Express Route Circuits
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidprovidersmicrosoftnetworkexpressroutecircuits-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidprovidersmicrosoft-networkexpressroutecircuits-get-openapi.md
 - name: Azure Virtual Network API Express Route Service Providers List
   x-api-slug: azure-virtual-network-api
   description: Gets all the available express route service providers.
@@ -334,9 +334,9 @@ apis:
   tags: Express Route Service Providers
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidprovidersmicrosoftnetworkexpressrouteserviceproviders-get-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidprovidersmicrosoft-networkexpressrouteserviceproviders-get-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidprovidersmicrosoftnetworkexpressrouteserviceproviders-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidprovidersmicrosoft-networkexpressrouteserviceproviders-get-openapi.md
 - name: Azure Virtual Network API Load Balancers Delete
   x-api-slug: azure-virtual-network-api
   description: Deletes the specified load balancer.
@@ -346,9 +346,9 @@ apis:
   tags: Load Balancers
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworkloadbalancersloadbalancername-delete-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networkloadbalancersloadbalancername-delete-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworkloadbalancersloadbalancername-delete-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networkloadbalancersloadbalancername-delete-openapi.md
 - name: Azure Virtual Network API Load Balancers Get
   x-api-slug: azure-virtual-network-api
   description: Gets the specified load balancer.
@@ -358,9 +358,9 @@ apis:
   tags: Load Balancers
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworkloadbalancersloadbalancername-get-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networkloadbalancersloadbalancername-get-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworkloadbalancersloadbalancername-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networkloadbalancersloadbalancername-get-openapi.md
 - name: Azure Virtual Network API Load Balancers Create Or Update
   x-api-slug: azure-virtual-network-api
   description: Creates or updates a load balancer.
@@ -370,7 +370,7 @@ apis:
   tags: Load Balancers
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworkloadbalancersloadbalancername-put-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networkloadbalancersloadbalancername-put-openapi.md
 - name: Azure Virtual Network API Load Balancers List All
   x-api-slug: azure-virtual-network-api
   description: Gets all the load balancers in a subscription.
@@ -380,9 +380,9 @@ apis:
   tags: Load Balancers All
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidprovidersmicrosoftnetworkloadbalancers-get-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidprovidersmicrosoft-networkloadbalancers-get-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidprovidersmicrosoftnetworkloadbalancers-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidprovidersmicrosoft-networkloadbalancers-get-openapi.md
 - name: Azure Virtual Network API Load Balancers List
   x-api-slug: azure-virtual-network-api
   description: Gets all the load balancers in a resource group.
@@ -392,9 +392,9 @@ apis:
   tags: Load Balancers
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworkloadbalancers-get-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networkloadbalancers-get-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworkloadbalancers-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networkloadbalancers-get-openapi.md
 - name: Azure Virtual Network API Network Interfaces Delete
   x-api-slug: azure-virtual-network-api
   description: Deletes the specified network interface.
@@ -404,9 +404,9 @@ apis:
   tags: Network Interfaces
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworknetworkinterfacesnetworkinterfacename-delete-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networknetworkinterfacesnetworkinterfacename-delete-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworknetworkinterfacesnetworkinterfacename-delete-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networknetworkinterfacesnetworkinterfacename-delete-openapi.md
 - name: Azure Virtual Network API Network Interfaces Get
   x-api-slug: azure-virtual-network-api
   description: Gets information about the specified network interface.
@@ -416,9 +416,9 @@ apis:
   tags: Network Interfaces
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworknetworkinterfacesnetworkinterfacename-get-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networknetworkinterfacesnetworkinterfacename-get-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworknetworkinterfacesnetworkinterfacename-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networknetworkinterfacesnetworkinterfacename-get-openapi.md
 - name: Azure Virtual Network API Network Interfaces Create Or Update
   x-api-slug: azure-virtual-network-api
   description: Creates or updates a network interface.
@@ -428,7 +428,7 @@ apis:
   tags: Network Interfaces
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworknetworkinterfacesnetworkinterfacename-put-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networknetworkinterfacesnetworkinterfacename-put-openapi.md
 - name: Azure Virtual Network API Network Interfaces List All
   x-api-slug: azure-virtual-network-api
   description: Gets all network interfaces in a subscription.
@@ -438,9 +438,9 @@ apis:
   tags: Network Interfaces
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidprovidersmicrosoftnetworknetworkinterfaces-get-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidprovidersmicrosoft-networknetworkinterfaces-get-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidprovidersmicrosoftnetworknetworkinterfaces-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidprovidersmicrosoft-networknetworkinterfaces-get-openapi.md
 - name: Azure Virtual Network API Network Interfaces List
   x-api-slug: azure-virtual-network-api
   description: Gets all network interfaces in a resource group.
@@ -450,9 +450,9 @@ apis:
   tags: Network Interfaces
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworknetworkinterfaces-get-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networknetworkinterfaces-get-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworknetworkinterfaces-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networknetworkinterfaces-get-openapi.md
 - name: Azure Virtual Network API Network Interfaces Get Effective Route Table
   x-api-slug: azure-virtual-network-api
   description: Gets all route tables applied to a network interface.
@@ -462,9 +462,9 @@ apis:
   tags: Network Interfaces
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworknetworkinterfacesnetworkinterfacenameeffectiveroutetable-post-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networknetworkinterfacesnetworkinterfacenameeffectiveroutetable-post-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworknetworkinterfacesnetworkinterfacenameeffectiveroutetable-post-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networknetworkinterfacesnetworkinterfacenameeffectiveroutetable-post-openapi.md
 - name: Azure Virtual Network API Network Interfaces List Effective Network Security
     Groups
   x-api-slug: azure-virtual-network-api
@@ -475,9 +475,9 @@ apis:
   tags: Network Interfaces
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworknetworkinterfacesnetworkinterfacenameeffectivenetworksecuritygroups-post-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networknetworkinterfacesnetworkinterfacenameeffectivenetworksecuritygroups-post-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworknetworkinterfacesnetworkinterfacenameeffectivenetworksecuritygroups-post-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networknetworkinterfacesnetworkinterfacenameeffectivenetworksecuritygroups-post-openapi.md
 - name: Azure Virtual Network API Network Security Groups Delete
   x-api-slug: azure-virtual-network-api
   description: Deletes the specified network security group.
@@ -487,9 +487,9 @@ apis:
   tags: Network Security Groups
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworknetworksecuritygroupsnetworksecuritygroupname-delete-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networknetworksecuritygroupsnetworksecuritygroupname-delete-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworknetworksecuritygroupsnetworksecuritygroupname-delete-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networknetworksecuritygroupsnetworksecuritygroupname-delete-openapi.md
 - name: Azure Virtual Network API Network Security Groups Get
   x-api-slug: azure-virtual-network-api
   description: Gets the specified network security group.
@@ -499,9 +499,9 @@ apis:
   tags: Network Security Groups
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworknetworksecuritygroupsnetworksecuritygroupname-get-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networknetworksecuritygroupsnetworksecuritygroupname-get-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworknetworksecuritygroupsnetworksecuritygroupname-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networknetworksecuritygroupsnetworksecuritygroupname-get-openapi.md
 - name: Azure Virtual Network API Network Security Groups Create Or Update
   x-api-slug: azure-virtual-network-api
   description: Creates or updates a network security group in the specified resource
@@ -512,7 +512,7 @@ apis:
   tags: Network Security Groups
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworknetworksecuritygroupsnetworksecuritygroupname-put-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networknetworksecuritygroupsnetworksecuritygroupname-put-openapi.md
 - name: Azure Virtual Network API Network Security Groups List All
   x-api-slug: azure-virtual-network-api
   description: Gets all network security groups in a subscription.
@@ -522,9 +522,9 @@ apis:
   tags: Network Security Groups
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidprovidersmicrosoftnetworknetworksecuritygroups-get-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidprovidersmicrosoft-networknetworksecuritygroups-get-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidprovidersmicrosoftnetworknetworksecuritygroups-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidprovidersmicrosoft-networknetworksecuritygroups-get-openapi.md
 - name: Azure Virtual Network API Network Security Groups List
   x-api-slug: azure-virtual-network-api
   description: Gets all network security groups in a resource group.
@@ -534,9 +534,9 @@ apis:
   tags: Network Security Groups
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworknetworksecuritygroups-get-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networknetworksecuritygroups-get-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworknetworksecuritygroups-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networknetworksecuritygroups-get-openapi.md
 - name: Azure Virtual Network API Security Rules Delete
   x-api-slug: azure-virtual-network-api
   description: Deletes the specified network security rule.
@@ -546,9 +546,9 @@ apis:
   tags: Security Rules
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworknetworksecuritygroupsnetworksecuritygroupnamesecurityrulessecurityrulename-delete-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networknetworksecuritygroupsnetworksecuritygroupnamesecurityrulessecurityrulename-delete-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworknetworksecuritygroupsnetworksecuritygroupnamesecurityrulessecurityrulename-delete-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networknetworksecuritygroupsnetworksecuritygroupnamesecurityrulessecurityrulename-delete-openapi.md
 - name: Azure Virtual Network API Security Rules Get
   x-api-slug: azure-virtual-network-api
   description: Get the specified network security rule.
@@ -558,9 +558,9 @@ apis:
   tags: Security Rules
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworknetworksecuritygroupsnetworksecuritygroupnamesecurityrulessecurityrulename-get-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networknetworksecuritygroupsnetworksecuritygroupnamesecurityrulessecurityrulename-get-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworknetworksecuritygroupsnetworksecuritygroupnamesecurityrulessecurityrulename-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networknetworksecuritygroupsnetworksecuritygroupnamesecurityrulessecurityrulename-get-openapi.md
 - name: Azure Virtual Network API Security Rules Create Or Update
   x-api-slug: azure-virtual-network-api
   description: Creates or updates a security rule in the specified network security
@@ -571,7 +571,7 @@ apis:
   tags: Security Rules
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworknetworksecuritygroupsnetworksecuritygroupnamesecurityrulessecurityrulename-put-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networknetworksecuritygroupsnetworksecuritygroupnamesecurityrulessecurityrulename-put-openapi.md
 - name: Azure Virtual Network API Security Rules List
   x-api-slug: azure-virtual-network-api
   description: Gets all security rules in a network security group.
@@ -581,9 +581,9 @@ apis:
   tags: Security Rules
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworknetworksecuritygroupsnetworksecuritygroupnamesecurityrules-get-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networknetworksecuritygroupsnetworksecuritygroupnamesecurityrules-get-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworknetworksecuritygroupsnetworksecuritygroupnamesecurityrules-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networknetworksecuritygroupsnetworksecuritygroupnamesecurityrules-get-openapi.md
 - name: Azure Virtual Network API Network Watchers Create Or Update
   x-api-slug: azure-virtual-network-api
   description: Creates or updates a network watcher in the specified resource group.
@@ -593,7 +593,7 @@ apis:
   tags: Network Watchers
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworknetworkwatchersnetworkwatchername-put-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networknetworkwatchersnetworkwatchername-put-openapi.md
 - name: Azure Virtual Network API Network Watchers Get
   x-api-slug: azure-virtual-network-api
   description: Gets the specified network watcher by resource group.
@@ -603,7 +603,7 @@ apis:
   tags: Network Watchers
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworknetworkwatchersnetworkwatchername-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networknetworkwatchersnetworkwatchername-get-openapi.md
 - name: Azure Virtual Network API Network Watchers Delete
   x-api-slug: azure-virtual-network-api
   description: Deletes the specified network watcher resource.
@@ -613,7 +613,7 @@ apis:
   tags: Network Watchers
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworknetworkwatchersnetworkwatchername-delete-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networknetworkwatchersnetworkwatchername-delete-openapi.md
 - name: Azure Virtual Network API Network Watchers List
   x-api-slug: azure-virtual-network-api
   description: Gets all network watchers by resource group.
@@ -623,7 +623,7 @@ apis:
   tags: Network Watchers
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworknetworkwatchers-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networknetworkwatchers-get-openapi.md
 - name: Azure Virtual Network API Network Watchers List All
   x-api-slug: azure-virtual-network-api
   description: Gets all network watchers by subscription.
@@ -633,7 +633,7 @@ apis:
   tags: Network Watchers
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidprovidersmicrosoftnetworknetworkwatchers-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidprovidersmicrosoft-networknetworkwatchers-get-openapi.md
 - name: Azure Virtual Network API Network Watchers Get Topology
   x-api-slug: azure-virtual-network-api
   description: Gets the current network topology by resource group.
@@ -643,7 +643,7 @@ apis:
   tags: Network Watchers
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworknetworkwatchersnetworkwatchernametopology-post-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networknetworkwatchersnetworkwatchernametopology-post-openapi.md
 - name: Azure Virtual Network API Network Watchers Verify IPFlow
   x-api-slug: azure-virtual-network-api
   description: Verify IP flow from the specified VM to a location given the currently
@@ -654,7 +654,7 @@ apis:
   tags: Network Watchers
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworknetworkwatchersnetworkwatchernameipflowverify-post-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networknetworkwatchersnetworkwatchernameipflowverify-post-openapi.md
 - name: Azure Virtual Network API Network Watchers Get Next Hop
   x-api-slug: azure-virtual-network-api
   description: Gets the next hop from the specified VM.
@@ -664,7 +664,7 @@ apis:
   tags: Network Watchers
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworknetworkwatchersnetworkwatchernamenexthop-post-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networknetworkwatchersnetworkwatchernamenexthop-post-openapi.md
 - name: Azure Virtual Network API Network Watchers Get VMSecurity Rules
   x-api-slug: azure-virtual-network-api
   description: Gets the configured and effective security group rules on the specified
@@ -675,7 +675,7 @@ apis:
   tags: Network Watchers
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworknetworkwatchersnetworkwatchernamesecuritygroupview-post-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networknetworkwatchersnetworkwatchernamesecuritygroupview-post-openapi.md
 - name: Azure Virtual Network API Packet Captures Create
   x-api-slug: azure-virtual-network-api
   description: Create and start a packet capture on the specified VM.
@@ -685,7 +685,7 @@ apis:
   tags: Packet Captures
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworknetworkwatchersnetworkwatchernamepacketcapturespacketcapturename-put-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networknetworkwatchersnetworkwatchernamepacketcapturespacketcapturename-put-openapi.md
 - name: Azure Virtual Network API Packet Captures Get
   x-api-slug: azure-virtual-network-api
   description: Gets a packet capture session by name.
@@ -695,7 +695,7 @@ apis:
   tags: Packet Captures
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworknetworkwatchersnetworkwatchernamepacketcapturespacketcapturename-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networknetworkwatchersnetworkwatchernamepacketcapturespacketcapturename-get-openapi.md
 - name: Azure Virtual Network API Packet Captures Delete
   x-api-slug: azure-virtual-network-api
   description: Deletes the specified packet capture session.
@@ -705,7 +705,7 @@ apis:
   tags: Packet Captures
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworknetworkwatchersnetworkwatchernamepacketcapturespacketcapturename-delete-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networknetworkwatchersnetworkwatchernamepacketcapturespacketcapturename-delete-openapi.md
 - name: Azure Virtual Network API Packet Captures Stop
   x-api-slug: azure-virtual-network-api
   description: Stops a specified packet capture session.
@@ -715,7 +715,7 @@ apis:
   tags: Packet Captures
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworknetworkwatchersnetworkwatchernamepacketcapturespacketcapturenamestop-post-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networknetworkwatchersnetworkwatchernamepacketcapturespacketcapturenamestop-post-openapi.md
 - name: Azure Virtual Network API Packet Captures Get Status
   x-api-slug: azure-virtual-network-api
   description: Query the status of a running packet capture session.
@@ -725,7 +725,7 @@ apis:
   tags: Packet Captures
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworknetworkwatchersnetworkwatchernamepacketcapturespacketcapturenamequerystatus-post-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networknetworkwatchersnetworkwatchernamepacketcapturespacketcapturenamequerystatus-post-openapi.md
 - name: Azure Virtual Network API Packet Captures List
   x-api-slug: azure-virtual-network-api
   description: Lists all packet capture sessions within the specified resource group.
@@ -735,7 +735,7 @@ apis:
   tags: Packet Captures
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworknetworkwatchersnetworkwatchernamepacketcaptures-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networknetworkwatchersnetworkwatchernamepacketcaptures-get-openapi.md
 - name: Azure Virtual Network API Network Watchers Get Troubleshooting
   x-api-slug: azure-virtual-network-api
   description: Initiate troubleshooting on a specified resource
@@ -745,7 +745,7 @@ apis:
   tags: Network Watchers
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworknetworkwatchersnetworkwatchernametroubleshoot-post-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networknetworkwatchersnetworkwatchernametroubleshoot-post-openapi.md
 - name: Azure Virtual Network API Network Watchers Get Troubleshooting Result
   x-api-slug: azure-virtual-network-api
   description: Get the last completed troubleshooting result on a specified resource
@@ -755,7 +755,7 @@ apis:
   tags: Network Watchers
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworknetworkwatchersnetworkwatchernamequerytroubleshootresult-post-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networknetworkwatchersnetworkwatchernamequerytroubleshootresult-post-openapi.md
 - name: Azure Virtual Network API Network Watchers Set Flow Log Configuration
   x-api-slug: azure-virtual-network-api
   description: Configures flow log on a specified resource.
@@ -765,7 +765,7 @@ apis:
   tags: Network Watchers
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworknetworkwatchersnetworkwatchernameconfigureflowlog-post-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networknetworkwatchersnetworkwatchernameconfigureflowlog-post-openapi.md
 - name: Azure Virtual Network API Network Watchers Get Flow Log Status
   x-api-slug: azure-virtual-network-api
   description: Queries status of flow log on a specified resource.
@@ -775,7 +775,7 @@ apis:
   tags: Network Watchers
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworknetworkwatchersnetworkwatchernamequeryflowlogstatus-post-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networknetworkwatchersnetworkwatchernamequeryflowlogstatus-post-openapi.md
 - name: Azure Virtual Network API Public IPAddresses Delete
   x-api-slug: azure-virtual-network-api
   description: Deletes the specified public IP address.
@@ -785,9 +785,9 @@ apis:
   tags: Public IP Address
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworkpublicipaddressespublicipaddressname-delete-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networkpublicipaddressespublicipaddressname-delete-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworkpublicipaddressespublicipaddressname-delete-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networkpublicipaddressespublicipaddressname-delete-openapi.md
 - name: Azure Virtual Network API Public IPAddresses Get
   x-api-slug: azure-virtual-network-api
   description: Gets the specified public IP address in a specified resource group.
@@ -797,9 +797,9 @@ apis:
   tags: Public IP Address
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworkpublicipaddressespublicipaddressname-get-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networkpublicipaddressespublicipaddressname-get-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworkpublicipaddressespublicipaddressname-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networkpublicipaddressespublicipaddressname-get-openapi.md
 - name: Azure Virtual Network API Public IPAddresses Create Or Update
   x-api-slug: azure-virtual-network-api
   description: Creates or updates a static or dynamic public IP address.
@@ -809,7 +809,7 @@ apis:
   tags: Public IP Address
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworkpublicipaddressespublicipaddressname-put-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networkpublicipaddressespublicipaddressname-put-openapi.md
 - name: Azure Virtual Network API Public IPAddresses List All
   x-api-slug: azure-virtual-network-api
   description: Gets all the public IP addresses in a subscription.
@@ -819,7 +819,7 @@ apis:
   tags: Public IP Address
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidprovidersmicrosoftnetworkpublicipaddresses-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidprovidersmicrosoft-networkpublicipaddresses-get-openapi.md
 - name: Azure Virtual Network API Public IPAddresses List
   x-api-slug: azure-virtual-network-api
   description: Gets all public IP addresses in a resource group.
@@ -829,7 +829,7 @@ apis:
   tags: Public IP Address
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworkpublicipaddresses-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networkpublicipaddresses-get-openapi.md
 - name: Azure Virtual Network API Route Filters Delete
   x-api-slug: azure-virtual-network-api
   description: Deletes the specified route filter.
@@ -839,9 +839,9 @@ apis:
   tags: Route Filters
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworkroutefiltersroutefiltername-delete-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networkroutefiltersroutefiltername-delete-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworkroutefiltersroutefiltername-delete-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networkroutefiltersroutefiltername-delete-openapi.md
 - name: Azure Virtual Network API Route Filters Get
   x-api-slug: azure-virtual-network-api
   description: Gets the specified route filter.
@@ -851,9 +851,9 @@ apis:
   tags: Route Filters
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworkroutefiltersroutefiltername-get-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networkroutefiltersroutefiltername-get-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworkroutefiltersroutefiltername-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networkroutefiltersroutefiltername-get-openapi.md
 - name: Azure Virtual Network API Route Filters Create Or Update
   x-api-slug: azure-virtual-network-api
   description: Creates or updates a route filter in a specified resource group.
@@ -863,7 +863,7 @@ apis:
   tags: Route Filters
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworkroutefiltersroutefiltername-put-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networkroutefiltersroutefiltername-put-openapi.md
 - name: Azure Virtual Network API Route Filters Update
   x-api-slug: azure-virtual-network-api
   description: Updates a route filter in a specified resource group.
@@ -873,7 +873,7 @@ apis:
   tags: Route Filters
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworkroutefiltersroutefiltername-patch-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networkroutefiltersroutefiltername-patch-openapi.md
 - name: Azure Virtual Network API Route Filters List By Resource Group
   x-api-slug: azure-virtual-network-api
   description: Gets all route filters in a resource group.
@@ -883,7 +883,7 @@ apis:
   tags: Route Filters
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworkroutefilters-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networkroutefilters-get-openapi.md
 - name: Azure Virtual Network API Route Filters List
   x-api-slug: azure-virtual-network-api
   description: Gets all route filters in a subscription.
@@ -893,7 +893,7 @@ apis:
   tags: Route Filters
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidprovidersmicrosoftnetworkroutefilters-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidprovidersmicrosoft-networkroutefilters-get-openapi.md
 - name: Azure Virtual Network API Route Filter Rules Delete
   x-api-slug: azure-virtual-network-api
   description: Deletes the specified rule from a route filter.
@@ -903,9 +903,9 @@ apis:
   tags: Route Filter Rules
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworkroutefiltersroutefilternameroutefilterrulesrulename-delete-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networkroutefiltersroutefilternameroutefilterrulesrulename-delete-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworkroutefiltersroutefilternameroutefilterrulesrulename-delete-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networkroutefiltersroutefilternameroutefilterrulesrulename-delete-openapi.md
 - name: Azure Virtual Network API Route Filter Rules Get
   x-api-slug: azure-virtual-network-api
   description: Gets the specified rule from a route filter.
@@ -915,9 +915,9 @@ apis:
   tags: Route Filter Rules
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworkroutefiltersroutefilternameroutefilterrulesrulename-get-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networkroutefiltersroutefilternameroutefilterrulesrulename-get-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworkroutefiltersroutefilternameroutefilterrulesrulename-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networkroutefiltersroutefilternameroutefilterrulesrulename-get-openapi.md
 - name: Azure Virtual Network API Route Filter Rules Create Or Update
   x-api-slug: azure-virtual-network-api
   description: Creates or updates a route in the specified route filter.
@@ -927,7 +927,7 @@ apis:
   tags: Route Filter Rules
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworkroutefiltersroutefilternameroutefilterrulesrulename-put-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networkroutefiltersroutefilternameroutefilterrulesrulename-put-openapi.md
 - name: Azure Virtual Network API Route Filter Rules Update
   x-api-slug: azure-virtual-network-api
   description: Updates a route in the specified route filter.
@@ -937,7 +937,7 @@ apis:
   tags: Route Filter Rules
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworkroutefiltersroutefilternameroutefilterrulesrulename-patch-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networkroutefiltersroutefilternameroutefilterrulesrulename-patch-openapi.md
 - name: Azure Virtual Network API Route Filter Rules List By Route Filter
   x-api-slug: azure-virtual-network-api
   description: Gets all RouteFilterRules in a route filter.
@@ -947,9 +947,9 @@ apis:
   tags: Route Filter Rules
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworkroutefiltersroutefilternameroutefilterrules-get-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networkroutefiltersroutefilternameroutefilterrules-get-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworkroutefiltersroutefilternameroutefilterrules-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networkroutefiltersroutefilternameroutefilterrules-get-openapi.md
 - name: Azure Virtual Network API Route Tables Delete
   x-api-slug: azure-virtual-network-api
   description: Deletes the specified route table.
@@ -959,9 +959,9 @@ apis:
   tags: Route Tables
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworkroutetablesroutetablename-delete-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networkroutetablesroutetablename-delete-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworkroutetablesroutetablename-delete-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networkroutetablesroutetablename-delete-openapi.md
 - name: Azure Virtual Network API Route Tables Get
   x-api-slug: azure-virtual-network-api
   description: Gets the specified route table.
@@ -971,9 +971,9 @@ apis:
   tags: Route Tables
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworkroutetablesroutetablename-get-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networkroutetablesroutetablename-get-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworkroutetablesroutetablename-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networkroutetablesroutetablename-get-openapi.md
 - name: Azure Virtual Network API Route Tables Create Or Update
   x-api-slug: azure-virtual-network-api
   description: Create or updates a route table in a specified resource group.
@@ -983,7 +983,7 @@ apis:
   tags: Route Tables
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworkroutetablesroutetablename-put-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networkroutetablesroutetablename-put-openapi.md
 - name: Azure Virtual Network API Route Tables List
   x-api-slug: azure-virtual-network-api
   description: Gets all route tables in a resource group.
@@ -993,9 +993,9 @@ apis:
   tags: Route Tables
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworkroutetables-get-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networkroutetables-get-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworkroutetables-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networkroutetables-get-openapi.md
 - name: Azure Virtual Network API Route Tables List All
   x-api-slug: azure-virtual-network-api
   description: Gets all route tables in a subscription.
@@ -1005,9 +1005,9 @@ apis:
   tags: Route Tables
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidprovidersmicrosoftnetworkroutetables-get-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidprovidersmicrosoft-networkroutetables-get-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidprovidersmicrosoftnetworkroutetables-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidprovidersmicrosoft-networkroutetables-get-openapi.md
 - name: Azure Virtual Network API Routes Delete
   x-api-slug: azure-virtual-network-api
   description: Deletes the specified route from a route table.
@@ -1017,9 +1017,9 @@ apis:
   tags: Routes
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworkroutetablesroutetablenameroutesroutename-delete-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networkroutetablesroutetablenameroutesroutename-delete-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworkroutetablesroutetablenameroutesroutename-delete-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networkroutetablesroutetablenameroutesroutename-delete-openapi.md
 - name: Azure Virtual Network API Routes Get
   x-api-slug: azure-virtual-network-api
   description: Gets the specified route from a route table.
@@ -1029,9 +1029,9 @@ apis:
   tags: Routes
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworkroutetablesroutetablenameroutesroutename-get-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networkroutetablesroutetablenameroutesroutename-get-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworkroutetablesroutetablenameroutesroutename-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networkroutetablesroutetablenameroutesroutename-get-openapi.md
 - name: Azure Virtual Network API Routes Create Or Update
   x-api-slug: azure-virtual-network-api
   description: Creates or updates a route in the specified route table.
@@ -1041,7 +1041,7 @@ apis:
   tags: Routes
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworkroutetablesroutetablenameroutesroutename-put-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networkroutetablesroutetablenameroutesroutename-put-openapi.md
 - name: Azure Virtual Network API Routes List
   x-api-slug: azure-virtual-network-api
   description: Gets all routes in a route table.
@@ -1051,9 +1051,9 @@ apis:
   tags: Routes
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworkroutetablesroutetablenameroutes-get-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networkroutetablesroutetablenameroutes-get-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworkroutetablesroutetablenameroutes-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networkroutetablesroutetablenameroutes-get-openapi.md
 - name: Azure Virtual Network API Bgp Service Communities List
   x-api-slug: azure-virtual-network-api
   description: Gets all the available bgp service communities.
@@ -1063,9 +1063,9 @@ apis:
   tags: Bgp Service Communities
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidprovidersmicrosoftnetworkbgpservicecommunities-get-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidprovidersmicrosoft-networkbgpservicecommunities-get-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidprovidersmicrosoftnetworkbgpservicecommunities-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidprovidersmicrosoft-networkbgpservicecommunities-get-openapi.md
 - name: Azure Virtual Network API Usages List
   x-api-slug: azure-virtual-network-api
   description: Lists compute usages for a subscription.
@@ -1075,7 +1075,7 @@ apis:
   tags: Usages
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidprovidersmicrosoftnetworklocationslocationusages-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidprovidersmicrosoft-networklocationslocationusages-get-openapi.md
 - name: Azure Virtual Network API Virtual Networks Delete
   x-api-slug: azure-virtual-network-api
   description: Deletes the specified virtual network.
@@ -1085,9 +1085,9 @@ apis:
   tags: Virtual Networks
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworkvirtualnetworksvirtualnetworkname-delete-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networkvirtualnetworksvirtualnetworkname-delete-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworkvirtualnetworksvirtualnetworkname-delete-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networkvirtualnetworksvirtualnetworkname-delete-openapi.md
 - name: Azure Virtual Network API Virtual Networks Get
   x-api-slug: azure-virtual-network-api
   description: Gets the specified virtual network by resource group.
@@ -1097,9 +1097,9 @@ apis:
   tags: Virtual Networks
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworkvirtualnetworksvirtualnetworkname-get-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networkvirtualnetworksvirtualnetworkname-get-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworkvirtualnetworksvirtualnetworkname-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networkvirtualnetworksvirtualnetworkname-get-openapi.md
 - name: Azure Virtual Network API Virtual Networks Create Or Update
   x-api-slug: azure-virtual-network-api
   description: Creates or updates a virtual network in the specified resource group.
@@ -1109,7 +1109,7 @@ apis:
   tags: Virtual Networks
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworkvirtualnetworksvirtualnetworkname-put-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networkvirtualnetworksvirtualnetworkname-put-openapi.md
 - name: Azure Virtual Network API Virtual Networks List All
   x-api-slug: azure-virtual-network-api
   description: Gets all virtual networks in a subscription.
@@ -1119,9 +1119,9 @@ apis:
   tags: Virtual Networks
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidprovidersmicrosoftnetworkvirtualnetworks-get-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidprovidersmicrosoft-networkvirtualnetworks-get-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidprovidersmicrosoftnetworkvirtualnetworks-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidprovidersmicrosoft-networkvirtualnetworks-get-openapi.md
 - name: Azure Virtual Network API Virtual Networks List
   x-api-slug: azure-virtual-network-api
   description: Gets all virtual networks in a resource group.
@@ -1131,9 +1131,9 @@ apis:
   tags: Virtual Networks
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworkvirtualnetworks-get-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networkvirtualnetworks-get-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworkvirtualnetworks-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networkvirtualnetworks-get-openapi.md
 - name: Azure Virtual Network API Subnets Delete
   x-api-slug: azure-virtual-network-api
   description: Deletes the specified subnet.
@@ -1143,7 +1143,7 @@ apis:
   tags: Subnets
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworkvirtualnetworksvirtualnetworknamesubnetssubnetname-delete-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networkvirtualnetworksvirtualnetworknamesubnetssubnetname-delete-openapi.md
 - name: Azure Virtual Network API Subnets Get
   x-api-slug: azure-virtual-network-api
   description: Gets the specified subnet by virtual network and resource group.
@@ -1153,7 +1153,7 @@ apis:
   tags: Subnets
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworkvirtualnetworksvirtualnetworknamesubnetssubnetname-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networkvirtualnetworksvirtualnetworknamesubnetssubnetname-get-openapi.md
 - name: Azure Virtual Network API Subnets Create Or Update
   x-api-slug: azure-virtual-network-api
   description: Creates or updates a subnet in the specified virtual network.
@@ -1163,7 +1163,7 @@ apis:
   tags: Subnets
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworkvirtualnetworksvirtualnetworknamesubnetssubnetname-put-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networkvirtualnetworksvirtualnetworknamesubnetssubnetname-put-openapi.md
 - name: Azure Virtual Network API Subnets List
   x-api-slug: azure-virtual-network-api
   description: Gets all subnets in a virtual network.
@@ -1173,7 +1173,7 @@ apis:
   tags: Subnets
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworkvirtualnetworksvirtualnetworknamesubnets-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networkvirtualnetworksvirtualnetworknamesubnets-get-openapi.md
 - name: Azure Virtual Network API Virtual Network Peerings Delete
   x-api-slug: azure-virtual-network-api
   description: Deletes the specified virtual network peering.
@@ -1183,7 +1183,7 @@ apis:
   tags: Virtual Network Peerings
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworkvirtualnetworksvirtualnetworknamevirtualnetworkpeeringsvirtualnetworkpeeringname-delete-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networkvirtualnetworksvirtualnetworknamevirtualnetworkpeeringsvirtualnetworkpeeringname-delete-openapi.md
 - name: Azure Virtual Network API Virtual Network Peerings Get
   x-api-slug: azure-virtual-network-api
   description: Gets the specified virtual network peering.
@@ -1193,7 +1193,7 @@ apis:
   tags: Virtual Network Peerings
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworkvirtualnetworksvirtualnetworknamevirtualnetworkpeeringsvirtualnetworkpeeringname-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networkvirtualnetworksvirtualnetworknamevirtualnetworkpeeringsvirtualnetworkpeeringname-get-openapi.md
 - name: Azure Virtual Network API Virtual Network Peerings Create Or Update
   x-api-slug: azure-virtual-network-api
   description: Creates or updates a peering in the specified virtual network.
@@ -1203,7 +1203,7 @@ apis:
   tags: Virtual Network Peerings
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworkvirtualnetworksvirtualnetworknamevirtualnetworkpeeringsvirtualnetworkpeeringname-put-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networkvirtualnetworksvirtualnetworknamevirtualnetworkpeeringsvirtualnetworkpeeringname-put-openapi.md
 - name: Azure Virtual Network API Virtual Network Peerings List
   x-api-slug: azure-virtual-network-api
   description: Gets all virtual network peerings in a virtual network.
@@ -1213,7 +1213,7 @@ apis:
   tags: Virtual Network Peerings
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworkvirtualnetworksvirtualnetworknamevirtualnetworkpeerings-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networkvirtualnetworksvirtualnetworknamevirtualnetworkpeerings-get-openapi.md
 - name: Azure Virtual Network API Virtual Networks Check IPAddress Availability
   x-api-slug: azure-virtual-network-api
   description: Checks whether a private IP address is available for use.
@@ -1223,9 +1223,9 @@ apis:
   tags: Virtual Networks
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworkvirtualnetworksvirtualnetworknamecheckipaddressavailability-get-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networkvirtualnetworksvirtualnetworknamecheckipaddressavailability-get-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworkvirtualnetworksvirtualnetworknamecheckipaddressavailability-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networkvirtualnetworksvirtualnetworknamecheckipaddressavailability-get-openapi.md
 - name: Azure Virtual Network API Virtual Network Gateways Create Or Update
   x-api-slug: azure-virtual-network-api
   description: Creates or updates a virtual network gateway in the specified resource
@@ -1236,7 +1236,7 @@ apis:
   tags: Virtual Network Gateways
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworkvirtualnetworkgatewaysvirtualnetworkgatewayname-put-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networkvirtualnetworkgatewaysvirtualnetworkgatewayname-put-openapi.md
 - name: Azure Virtual Network API Virtual Network Gateways Get
   x-api-slug: azure-virtual-network-api
   description: Gets the specified virtual network gateway by resource group.
@@ -1246,9 +1246,9 @@ apis:
   tags: Virtual Network Gateways
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworkvirtualnetworkgatewaysvirtualnetworkgatewayname-get-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networkvirtualnetworkgatewaysvirtualnetworkgatewayname-get-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworkvirtualnetworkgatewaysvirtualnetworkgatewayname-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networkvirtualnetworkgatewaysvirtualnetworkgatewayname-get-openapi.md
 - name: Azure Virtual Network API Virtual Network Gateways Delete
   x-api-slug: azure-virtual-network-api
   description: Deletes the specified virtual network gateway.
@@ -1258,9 +1258,9 @@ apis:
   tags: Virtual Network Gateways
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworkvirtualnetworkgatewaysvirtualnetworkgatewayname-delete-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networkvirtualnetworkgatewaysvirtualnetworkgatewayname-delete-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworkvirtualnetworkgatewaysvirtualnetworkgatewayname-delete-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networkvirtualnetworkgatewaysvirtualnetworkgatewayname-delete-openapi.md
 - name: Azure Virtual Network API Virtual Network Gateways List
   x-api-slug: azure-virtual-network-api
   description: Gets all virtual network gateways by resource group.
@@ -1270,9 +1270,9 @@ apis:
   tags: Virtual Network Gateways
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworkvirtualnetworkgateways-get-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networkvirtualnetworkgateways-get-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworkvirtualnetworkgateways-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networkvirtualnetworkgateways-get-openapi.md
 - name: Azure Virtual Network API Virtual Network Gateways Reset
   x-api-slug: azure-virtual-network-api
   description: Resets the primary of the virtual network gateway in the specified
@@ -1283,9 +1283,9 @@ apis:
   tags: Virtual Network Gateways
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworkvirtualnetworkgatewaysvirtualnetworkgatewaynamereset-post-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networkvirtualnetworkgatewaysvirtualnetworkgatewaynamereset-post-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworkvirtualnetworkgatewaysvirtualnetworkgatewaynamereset-post-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networkvirtualnetworkgatewaysvirtualnetworkgatewaynamereset-post-openapi.md
 - name: Azure Virtual Network API Virtual Network Gateways Generatevpnclientpackage
   x-api-slug: azure-virtual-network-api
   description: Generates VPN client package for P2S client of the virtual network
@@ -1296,7 +1296,7 @@ apis:
   tags: Virtual Network Gateways
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworkvirtualnetworkgatewaysvirtualnetworkgatewaynamegeneratevpnclientpackage-post-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networkvirtualnetworkgatewaysvirtualnetworkgatewaynamegeneratevpnclientpackage-post-openapi.md
 - name: Azure Virtual Network API Virtual Network Gateways Get Bgp Peer Status
   x-api-slug: azure-virtual-network-api
   description: The GetBgpPeerStatus operation retrieves the status of all BGP peers.
@@ -1306,9 +1306,9 @@ apis:
   tags: Virtual Network Gateways
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworkvirtualnetworkgatewaysvirtualnetworkgatewaynamegetbgppeerstatus-post-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networkvirtualnetworkgatewaysvirtualnetworkgatewaynamegetbgppeerstatus-post-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworkvirtualnetworkgatewaysvirtualnetworkgatewaynamegetbgppeerstatus-post-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networkvirtualnetworkgatewaysvirtualnetworkgatewaynamegetbgppeerstatus-post-openapi.md
 - name: Azure Virtual Network API Virtual Network Gateways Get Learned Routes
   x-api-slug: azure-virtual-network-api
   description: This operation retrieves a list of routes the virtual network gateway
@@ -1319,9 +1319,9 @@ apis:
   tags: Virtual Network Gateways
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworkvirtualnetworkgatewaysvirtualnetworkgatewaynamegetlearnedroutes-post-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networkvirtualnetworkgatewaysvirtualnetworkgatewaynamegetlearnedroutes-post-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworkvirtualnetworkgatewaysvirtualnetworkgatewaynamegetlearnedroutes-post-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networkvirtualnetworkgatewaysvirtualnetworkgatewaynamegetlearnedroutes-post-openapi.md
 - name: Azure Virtual Network API Virtual Network Gateways Get Advertised Routes
   x-api-slug: azure-virtual-network-api
   description: This operation retrieves a list of routes the virtual network gateway
@@ -1332,9 +1332,9 @@ apis:
   tags: Virtual Network Gateways
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworkvirtualnetworkgatewaysvirtualnetworkgatewaynamegetadvertisedroutes-post-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networkvirtualnetworkgatewaysvirtualnetworkgatewaynamegetadvertisedroutes-post-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworkvirtualnetworkgatewaysvirtualnetworkgatewaynamegetadvertisedroutes-post-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networkvirtualnetworkgatewaysvirtualnetworkgatewaynamegetadvertisedroutes-post-openapi.md
 - name: Azure Virtual Network API Virtual Network Gateway Connections Create Or Update
   x-api-slug: azure-virtual-network-api
   description: Creates or updates a virtual network gateway connection in the specified
@@ -1345,7 +1345,7 @@ apis:
   tags: Virtual Network Gateway Connections
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworkconnectionsvirtualnetworkgatewayconnectionname-put-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networkconnectionsvirtualnetworkgatewayconnectionname-put-openapi.md
 - name: Azure Virtual Network API Virtual Network Gateway Connections Get
   x-api-slug: azure-virtual-network-api
   description: Gets the specified virtual network gateway connection by resource group.
@@ -1355,9 +1355,9 @@ apis:
   tags: Virtual Network Gateway Connections
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworkconnectionsvirtualnetworkgatewayconnectionname-get-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networkconnectionsvirtualnetworkgatewayconnectionname-get-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworkconnectionsvirtualnetworkgatewayconnectionname-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networkconnectionsvirtualnetworkgatewayconnectionname-get-openapi.md
 - name: Azure Virtual Network API Virtual Network Gateway Connections Delete
   x-api-slug: azure-virtual-network-api
   description: Deletes the specified virtual network Gateway connection.
@@ -1367,9 +1367,9 @@ apis:
   tags: Virtual Network Gateway Connections
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworkconnectionsvirtualnetworkgatewayconnectionname-delete-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networkconnectionsvirtualnetworkgatewayconnectionname-delete-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworkconnectionsvirtualnetworkgatewayconnectionname-delete-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networkconnectionsvirtualnetworkgatewayconnectionname-delete-openapi.md
 - name: Azure Virtual Network API Virtual Network Gateway Connections Set Shared Key
   x-api-slug: azure-virtual-network-api
   description: The Put VirtualNetworkGatewayConnectionSharedKey operation sets the
@@ -1381,7 +1381,7 @@ apis:
   tags: Virtual Network Gateway Connections
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworkconnectionsvirtualnetworkgatewayconnectionnamesharedkey-put-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networkconnectionsvirtualnetworkgatewayconnectionnamesharedkey-put-openapi.md
 - name: Azure Virtual Network API Virtual Network Gateway Connections Get Shared Key
   x-api-slug: azure-virtual-network-api
   description: The Get VirtualNetworkGatewayConnectionSharedKey operation retrieves
@@ -1393,9 +1393,9 @@ apis:
   tags: Virtual Network Gateway Connections
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworkconnectionsvirtualnetworkgatewayconnectionnamesharedkey-get-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networkconnectionsvirtualnetworkgatewayconnectionnamesharedkey-get-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworkconnectionsvirtualnetworkgatewayconnectionnamesharedkey-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networkconnectionsvirtualnetworkgatewayconnectionnamesharedkey-get-openapi.md
 - name: Azure Virtual Network API Virtual Network Gateway Connections List
   x-api-slug: azure-virtual-network-api
   description: The List VirtualNetworkGatewayConnections operation retrieves all the
@@ -1406,9 +1406,9 @@ apis:
   tags: Virtual Network Gateway Connections
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworkconnections-get-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networkconnections-get-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworkconnections-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networkconnections-get-openapi.md
 - name: Azure Virtual Network API Virtual Network Gateway Connections Reset Shared
     Key
   x-api-slug: azure-virtual-network-api
@@ -1421,7 +1421,7 @@ apis:
   tags: Virtual Network Gateway Connections
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworkconnectionsvirtualnetworkgatewayconnectionnamesharedkeyreset-post-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networkconnectionsvirtualnetworkgatewayconnectionnamesharedkeyreset-post-openapi.md
 - name: Azure Virtual Network API Local Network Gateways Create Or Update
   x-api-slug: azure-virtual-network-api
   description: Creates or updates a local network gateway in the specified resource
@@ -1432,7 +1432,7 @@ apis:
   tags: Local Network Gateways
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworklocalnetworkgatewayslocalnetworkgatewayname-put-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networklocalnetworkgatewayslocalnetworkgatewayname-put-openapi.md
 - name: Azure Virtual Network API Local Network Gateways Get
   x-api-slug: azure-virtual-network-api
   description: Gets the specified local network gateway in a resource group.
@@ -1442,9 +1442,9 @@ apis:
   tags: Local Network Gateways
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworklocalnetworkgatewayslocalnetworkgatewayname-get-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networklocalnetworkgatewayslocalnetworkgatewayname-get-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworklocalnetworkgatewayslocalnetworkgatewayname-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networklocalnetworkgatewayslocalnetworkgatewayname-get-openapi.md
 - name: Azure Virtual Network API Local Network Gateways Delete
   x-api-slug: azure-virtual-network-api
   description: Deletes the specified local network gateway.
@@ -1454,9 +1454,9 @@ apis:
   tags: Local Network Gateways
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworklocalnetworkgatewayslocalnetworkgatewayname-delete-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networklocalnetworkgatewayslocalnetworkgatewayname-delete-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworklocalnetworkgatewayslocalnetworkgatewayname-delete-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networklocalnetworkgatewayslocalnetworkgatewayname-delete-openapi.md
 - name: Azure Virtual Network API Local Network Gateways List
   x-api-slug: azure-virtual-network-api
   description: Gets all the local network gateways in a resource group.
@@ -1466,9 +1466,9 @@ apis:
   tags: Local Network Gateways
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworklocalnetworkgateways-get-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networklocalnetworkgateways-get-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworklocalnetworkgateways-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networklocalnetworkgateways-get-openapi.md
 - name: Azure Virtual Network API Network Interfaces List Virtual Machine Scale Set
     VMNetwork Interfaces
   x-api-slug: azure-virtual-network-api
@@ -1480,9 +1480,9 @@ apis:
   tags: Network Interfaces
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftcomputevirtualmachinescalesetsvirtualmachinescalesetnamevirtualmachinesvirtualmachineindexnetworkinterfaces-get-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-computevirtualmachinescalesetsvirtualmachinescalesetnamevirtualmachinesvirtualmachineindexnetworkinterfaces-get-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftcomputevirtualmachinescalesetsvirtualmachinescalesetnamevirtualmachinesvirtualmachineindexnetworkinterfaces-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-computevirtualmachinescalesetsvirtualmachinescalesetnamevirtualmachinesvirtualmachineindexnetworkinterfaces-get-openapi.md
 - name: Azure Virtual Network API Network Interfaces List Virtual Machine Scale Set
     Network Interfaces
   x-api-slug: azure-virtual-network-api
@@ -1493,9 +1493,9 @@ apis:
   tags: Network Interfaces
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftcomputevirtualmachinescalesetsvirtualmachinescalesetnamenetworkinterfaces-get-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-computevirtualmachinescalesetsvirtualmachinescalesetnamenetworkinterfaces-get-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftcomputevirtualmachinescalesetsvirtualmachinescalesetnamenetworkinterfaces-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-computevirtualmachinescalesetsvirtualmachinescalesetnamenetworkinterfaces-get-openapi.md
 - name: Azure Virtual Network API Network Interfaces Get Virtual Machine Scale Set
     Network Interface
   x-api-slug: azure-virtual-network-api
@@ -1506,9 +1506,9 @@ apis:
   tags: Network Interfaces
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftcomputevirtualmachinescalesetsvirtualmachinescalesetnamevirtualmachinesvirtualmachineindexnetworkinterfacesnetworkinterfacename-get-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-computevirtualmachinescalesetsvirtualmachinescalesetnamevirtualmachinesvirtualmachineindexnetworkinterfacesnetworkinterfacename-get-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftcomputevirtualmachinescalesetsvirtualmachinescalesetnamevirtualmachinesvirtualmachineindexnetworkinterfacesnetworkinterfacename-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-virtual-network/master/_listings/azure-virtual-network/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-computevirtualmachinescalesetsvirtualmachinescalesetnamevirtualmachinesvirtualmachineindexnetworkinterfacesnetworkinterfacename-get-openapi.md
 - name: Azure Virtual Network API
   x-api-slug: azure-virtual-network-api
   description: Azure Virtual Network lets you create private networks in the cloud

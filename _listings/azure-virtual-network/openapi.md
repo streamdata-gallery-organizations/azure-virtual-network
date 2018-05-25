@@ -4,7 +4,7 @@ x-collection-name: Azure Virtual Network
 x-complete: 1
 info:
   title: NetworkManagementClient
-  description: the-microsoft-azure-network-management-api-provides-a-restful-set-of-web-services-that-interact-with-microsoft-azure-networks-service-to-manage-your-network-resources-the-api-has-entities-that-capture-the-relationship-between-an-end-user-and-the-microsoft-azure-networks-service
+  description: the-microsoft-azure-network-management-api-provides-a-restful-set-of-web-services-that-interact-with-microsoft-azure-networks-service-to-manage-your-network-resources--the-api-has-entities-that-capture-the-relationship-between-an-end-user-and-the-microsoft-azure-networks-service-
   version: 1.0.0
 host: management.azure.com
 basePath: /
@@ -20,7 +20,7 @@ paths:
       summary: Application Gateways Delete
       description: Deletes the specified application gateway.
       operationId: ApplicationGateways_Delete
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworkapplicationgatewaysapplicationgatewayname-delete
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networkapplicationgatewaysapplicationgatewayname-delete
       parameters:
       - in: path
         name: applicationGatewayName
@@ -39,7 +39,7 @@ paths:
       summary: Application Gateways Get
       description: Gets the specified application gateway.
       operationId: ApplicationGateways_Get
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworkapplicationgatewaysapplicationgatewayname-get
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networkapplicationgatewaysapplicationgatewayname-get
       parameters:
       - in: path
         name: applicationGatewayName
@@ -58,7 +58,7 @@ paths:
       summary: Application Gateways Create Or Update
       description: Creates or updates the specified application gateway.
       operationId: ApplicationGateways_CreateOrUpdate
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworkapplicationgatewaysapplicationgatewayname-put
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networkapplicationgatewaysapplicationgatewayname-put
       parameters:
       - in: path
         name: applicationGatewayName
@@ -84,7 +84,7 @@ paths:
       summary: Application Gateways List
       description: Lists all application gateways in a resource group.
       operationId: ApplicationGateways_List
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworkapplicationgateways-get
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networkapplicationgateways-get
       parameters:
       - in: query
         name: No Name
@@ -101,7 +101,7 @@ paths:
       summary: Application Gateways List All
       description: Gets all the application gateways in a subscription.
       operationId: ApplicationGateways_ListAll
-      x-api-path-slug: subscriptionssubscriptionidprovidersmicrosoftnetworkapplicationgateways-get
+      x-api-path-slug: subscriptionssubscriptionidprovidersmicrosoft-networkapplicationgateways-get
       parameters:
       - in: query
         name: No Name
@@ -115,7 +115,7 @@ paths:
       summary: Application Gateways Start
       description: Starts the specified application gateway.
       operationId: ApplicationGateways_Start
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworkapplicationgatewaysapplicationgatewaynamestart-post
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networkapplicationgatewaysapplicationgatewaynamestart-post
       parameters:
       - in: path
         name: applicationGatewayName
@@ -135,7 +135,7 @@ paths:
       summary: Application Gateways Stop
       description: Stops the specified application gateway in a resource group.
       operationId: ApplicationGateways_Stop
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworkapplicationgatewaysapplicationgatewaynamestop-post
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networkapplicationgatewaysapplicationgatewaynamestop-post
       parameters:
       - in: path
         name: applicationGatewayName
@@ -156,7 +156,7 @@ paths:
       description: Gets the backend health of the specified application gateway in
         a resource group.
       operationId: ApplicationGateways_BackendHealth
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworkapplicationgatewaysapplicationgatewaynamebackendhealth-post
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networkapplicationgatewaysapplicationgatewaynamebackendhealth-post
       parameters:
       - in: query
         name: $expand
@@ -180,7 +180,7 @@ paths:
       summary: Application Gateways List Available Waf Rule Sets
       description: Lists all available web application firewall rule sets.
       operationId: ApplicationGateways_ListAvailableWafRuleSets
-      x-api-path-slug: subscriptionssubscriptionidprovidersmicrosoftnetworkapplicationgatewayavailablewafrulesets-get
+      x-api-path-slug: subscriptionssubscriptionidprovidersmicrosoft-networkapplicationgatewayavailablewafrulesets-get
       parameters:
       - in: query
         name: No Name
@@ -195,7 +195,7 @@ paths:
       description: Checks whether a domain name in the cloudapp.net zone is available
         for use.
       operationId: CheckDnsNameAvailability
-      x-api-path-slug: subscriptionssubscriptionidprovidersmicrosoftnetworklocationslocationcheckdnsnameavailability-get
+      x-api-path-slug: subscriptionssubscriptionidprovidersmicrosoft-networklocationslocationcheckdnsnameavailability-get
       parameters:
       - in: query
         name: domainNameLabel
@@ -216,7 +216,7 @@ paths:
       description: Deletes the specified authorization from the specified express
         route circuit.
       operationId: ExpressRouteCircuitAuthorizations_Delete
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworkexpressroutecircuitscircuitnameauthorizationsauthorizationname-delete
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networkexpressroutecircuitscircuitnameauthorizationsauthorizationname-delete
       parameters:
       - in: path
         name: authorizationName
@@ -239,7 +239,7 @@ paths:
       description: Gets the specified authorization from the specified express route
         circuit.
       operationId: ExpressRouteCircuitAuthorizations_Get
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworkexpressroutecircuitscircuitnameauthorizationsauthorizationname-get
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networkexpressroutecircuitscircuitnameauthorizationsauthorizationname-get
       parameters:
       - in: path
         name: authorizationName
@@ -262,7 +262,7 @@ paths:
       description: Creates or updates an authorization in the specified express route
         circuit.
       operationId: ExpressRouteCircuitAuthorizations_CreateOrUpdate
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworkexpressroutecircuitscircuitnameauthorizationsauthorizationname-put
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networkexpressroutecircuitscircuitnameauthorizationsauthorizationname-put
       parameters:
       - in: path
         name: authorizationName
@@ -291,7 +291,7 @@ paths:
       summary: Express Route Circuit Authorizations List
       description: Gets all authorizations in an express route circuit.
       operationId: ExpressRouteCircuitAuthorizations_List
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworkexpressroutecircuitscircuitnameauthorizations-get
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networkexpressroutecircuitscircuitnameauthorizations-get
       parameters:
       - in: path
         name: circuitName
@@ -312,7 +312,7 @@ paths:
       description: Deletes the specified peering from the specified express route
         circuit.
       operationId: ExpressRouteCircuitPeerings_Delete
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworkexpressroutecircuitscircuitnamepeeringspeeringname-delete
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networkexpressroutecircuitscircuitnamepeeringspeeringname-delete
       parameters:
       - in: path
         name: circuitName
@@ -335,7 +335,7 @@ paths:
       description: Gets the specified authorization from the specified express route
         circuit.
       operationId: ExpressRouteCircuitPeerings_Get
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworkexpressroutecircuitscircuitnamepeeringspeeringname-get
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networkexpressroutecircuitscircuitnamepeeringspeeringname-get
       parameters:
       - in: path
         name: circuitName
@@ -357,7 +357,7 @@ paths:
       summary: Express Route Circuit Peerings Create Or Update
       description: Creates or updates a peering in the specified express route circuits.
       operationId: ExpressRouteCircuitPeerings_CreateOrUpdate
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworkexpressroutecircuitscircuitnamepeeringspeeringname-put
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networkexpressroutecircuitscircuitnamepeeringspeeringname-put
       parameters:
       - in: path
         name: circuitName
@@ -386,7 +386,7 @@ paths:
       summary: Express Route Circuit Peerings List
       description: Gets all peerings in a specified express route circuit.
       operationId: ExpressRouteCircuitPeerings_List
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworkexpressroutecircuitscircuitnamepeerings-get
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networkexpressroutecircuitscircuitnamepeerings-get
       parameters:
       - in: path
         name: circuitName
@@ -406,7 +406,7 @@ paths:
       summary: Express Route Circuits Delete
       description: Deletes the specified express route circuit.
       operationId: ExpressRouteCircuits_Delete
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworkexpressroutecircuitscircuitname-delete
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networkexpressroutecircuitscircuitname-delete
       parameters:
       - in: path
         name: circuitName
@@ -425,7 +425,7 @@ paths:
       summary: Express Route Circuits Get
       description: Gets information about the specified express route circuit.
       operationId: ExpressRouteCircuits_Get
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworkexpressroutecircuitscircuitname-get
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networkexpressroutecircuitscircuitname-get
       parameters:
       - in: path
         name: circuitName
@@ -444,7 +444,7 @@ paths:
       summary: Express Route Circuits Create Or Update
       description: Creates or updates an express route circuit.
       operationId: ExpressRouteCircuits_CreateOrUpdate
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworkexpressroutecircuitscircuitname-put
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networkexpressroutecircuitscircuitname-put
       parameters:
       - in: path
         name: circuitName
@@ -471,7 +471,7 @@ paths:
       description: Gets the currently advertised ARP table associated with the express
         route circuit in a resource group.
       operationId: ExpressRouteCircuits_ListArpTable
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworkexpressroutecircuitscircuitnamepeeringspeeringnamearptablesdevicepath-post
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networkexpressroutecircuitscircuitnamepeeringspeeringnamearptablesdevicepath-post
       parameters:
       - in: path
         name: circuitName
@@ -498,7 +498,7 @@ paths:
       description: Gets the currently advertised routes table associated with the
         express route circuit in a resource group.
       operationId: ExpressRouteCircuits_ListRoutesTable
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworkexpressroutecircuitscircuitnamepeeringspeeringnameroutetablesdevicepath-post
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networkexpressroutecircuitscircuitnamepeeringspeeringnameroutetablesdevicepath-post
       parameters:
       - in: path
         name: circuitName
@@ -525,7 +525,7 @@ paths:
       description: Gets the currently advertised routes table summary associated with
         the express route circuit in a resource group.
       operationId: ExpressRouteCircuits_ListRoutesTableSummary
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworkexpressroutecircuitscircuitnamepeeringspeeringnameroutetablessummarydevicepath-post
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networkexpressroutecircuitscircuitnamepeeringspeeringnameroutetablessummarydevicepath-post
       parameters:
       - in: path
         name: circuitName
@@ -552,7 +552,7 @@ paths:
       description: Gets all the stats from an express route circuit in a resource
         group.
       operationId: ExpressRouteCircuits_GetStats
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworkexpressroutecircuitscircuitnamestats-get
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networkexpressroutecircuitscircuitnamestats-get
       parameters:
       - in: path
         name: circuitName
@@ -572,7 +572,7 @@ paths:
       summary: Express Route Circuits Get Peering Stats
       description: Gets all stats from an express route circuit in a resource group.
       operationId: ExpressRouteCircuits_GetPeeringStats
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworkexpressroutecircuitscircuitnamepeeringspeeringnamestats-get
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networkexpressroutecircuitscircuitnamepeeringspeeringnamestats-get
       parameters:
       - in: path
         name: circuitName
@@ -595,7 +595,7 @@ paths:
       summary: Express Route Circuits List
       description: Gets all the express route circuits in a resource group.
       operationId: ExpressRouteCircuits_List
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworkexpressroutecircuits-get
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networkexpressroutecircuits-get
       parameters:
       - in: query
         name: No Name
@@ -612,7 +612,7 @@ paths:
       summary: Express Route Circuits List All
       description: Gets all the express route circuits in a subscription.
       operationId: ExpressRouteCircuits_ListAll
-      x-api-path-slug: subscriptionssubscriptionidprovidersmicrosoftnetworkexpressroutecircuits-get
+      x-api-path-slug: subscriptionssubscriptionidprovidersmicrosoft-networkexpressroutecircuits-get
       parameters:
       - in: query
         name: No Name
@@ -626,7 +626,7 @@ paths:
       summary: Express Route Service Providers List
       description: Gets all the available express route service providers.
       operationId: ExpressRouteServiceProviders_List
-      x-api-path-slug: subscriptionssubscriptionidprovidersmicrosoftnetworkexpressrouteserviceproviders-get
+      x-api-path-slug: subscriptionssubscriptionidprovidersmicrosoft-networkexpressrouteserviceproviders-get
       parameters:
       - in: query
         name: No Name
@@ -640,7 +640,7 @@ paths:
       summary: Load Balancers Delete
       description: Deletes the specified load balancer.
       operationId: LoadBalancers_Delete
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworkloadbalancersloadbalancername-delete
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networkloadbalancersloadbalancername-delete
       parameters:
       - in: path
         name: loadBalancerName
@@ -659,7 +659,7 @@ paths:
       summary: Load Balancers Get
       description: Gets the specified load balancer.
       operationId: LoadBalancers_Get
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworkloadbalancersloadbalancername-get
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networkloadbalancersloadbalancername-get
       parameters:
       - in: query
         name: $expand
@@ -681,7 +681,7 @@ paths:
       summary: Load Balancers Create Or Update
       description: Creates or updates a load balancer.
       operationId: LoadBalancers_CreateOrUpdate
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworkloadbalancersloadbalancername-put
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networkloadbalancersloadbalancername-put
       parameters:
       - in: path
         name: loadBalancerName
@@ -706,7 +706,7 @@ paths:
       summary: Load Balancers List All
       description: Gets all the load balancers in a subscription.
       operationId: LoadBalancers_ListAll
-      x-api-path-slug: subscriptionssubscriptionidprovidersmicrosoftnetworkloadbalancers-get
+      x-api-path-slug: subscriptionssubscriptionidprovidersmicrosoft-networkloadbalancers-get
       parameters:
       - in: query
         name: No Name
@@ -720,7 +720,7 @@ paths:
       summary: Load Balancers List
       description: Gets all the load balancers in a resource group.
       operationId: LoadBalancers_List
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworkloadbalancers-get
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networkloadbalancers-get
       parameters:
       - in: query
         name: No Name
@@ -737,7 +737,7 @@ paths:
       summary: Network Interfaces Delete
       description: Deletes the specified network interface.
       operationId: NetworkInterfaces_Delete
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworknetworkinterfacesnetworkinterfacename-delete
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networknetworkinterfacesnetworkinterfacename-delete
       parameters:
       - in: path
         name: networkInterfaceName
@@ -756,7 +756,7 @@ paths:
       summary: Network Interfaces Get
       description: Gets information about the specified network interface.
       operationId: NetworkInterfaces_Get
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworknetworkinterfacesnetworkinterfacename-get
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networknetworkinterfacesnetworkinterfacename-get
       parameters:
       - in: query
         name: $expand
@@ -778,7 +778,7 @@ paths:
       summary: Network Interfaces Create Or Update
       description: Creates or updates a network interface.
       operationId: NetworkInterfaces_CreateOrUpdate
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworknetworkinterfacesnetworkinterfacename-put
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networknetworkinterfacesnetworkinterfacename-put
       parameters:
       - in: path
         name: networkInterfaceName
@@ -804,7 +804,7 @@ paths:
       summary: Network Interfaces List All
       description: Gets all network interfaces in a subscription.
       operationId: NetworkInterfaces_ListAll
-      x-api-path-slug: subscriptionssubscriptionidprovidersmicrosoftnetworknetworkinterfaces-get
+      x-api-path-slug: subscriptionssubscriptionidprovidersmicrosoft-networknetworkinterfaces-get
       parameters:
       - in: query
         name: No Name
@@ -818,7 +818,7 @@ paths:
       summary: Network Interfaces List
       description: Gets all network interfaces in a resource group.
       operationId: NetworkInterfaces_List
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworknetworkinterfaces-get
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networknetworkinterfaces-get
       parameters:
       - in: query
         name: No Name
@@ -835,7 +835,7 @@ paths:
       summary: Network Interfaces Get Effective Route Table
       description: Gets all route tables applied to a network interface.
       operationId: NetworkInterfaces_GetEffectiveRouteTable
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworknetworkinterfacesnetworkinterfacenameeffectiveroutetable-post
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networknetworkinterfacesnetworkinterfacenameeffectiveroutetable-post
       parameters:
       - in: path
         name: networkInterfaceName
@@ -855,7 +855,7 @@ paths:
       summary: Network Interfaces List Effective Network Security Groups
       description: Gets all network security groups applied to a network interface.
       operationId: NetworkInterfaces_ListEffectiveNetworkSecurityGroups
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworknetworkinterfacesnetworkinterfacenameeffectivenetworksecuritygroups-post
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networknetworkinterfacesnetworkinterfacenameeffectivenetworksecuritygroups-post
       parameters:
       - in: path
         name: networkInterfaceName
@@ -875,7 +875,7 @@ paths:
       summary: Network Security Groups Delete
       description: Deletes the specified network security group.
       operationId: NetworkSecurityGroups_Delete
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworknetworksecuritygroupsnetworksecuritygroupname-delete
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networknetworksecuritygroupsnetworksecuritygroupname-delete
       parameters:
       - in: path
         name: networkSecurityGroupName
@@ -894,7 +894,7 @@ paths:
       summary: Network Security Groups Get
       description: Gets the specified network security group.
       operationId: NetworkSecurityGroups_Get
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworknetworksecuritygroupsnetworksecuritygroupname-get
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networknetworksecuritygroupsnetworksecuritygroupname-get
       parameters:
       - in: query
         name: $expand
@@ -917,7 +917,7 @@ paths:
       description: Creates or updates a network security group in the specified resource
         group.
       operationId: NetworkSecurityGroups_CreateOrUpdate
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworknetworksecuritygroupsnetworksecuritygroupname-put
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networknetworksecuritygroupsnetworksecuritygroupname-put
       parameters:
       - in: path
         name: networkSecurityGroupName
@@ -943,7 +943,7 @@ paths:
       summary: Network Security Groups List All
       description: Gets all network security groups in a subscription.
       operationId: NetworkSecurityGroups_ListAll
-      x-api-path-slug: subscriptionssubscriptionidprovidersmicrosoftnetworknetworksecuritygroups-get
+      x-api-path-slug: subscriptionssubscriptionidprovidersmicrosoft-networknetworksecuritygroups-get
       parameters:
       - in: query
         name: No Name
@@ -957,7 +957,7 @@ paths:
       summary: Network Security Groups List
       description: Gets all network security groups in a resource group.
       operationId: NetworkSecurityGroups_List
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworknetworksecuritygroups-get
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networknetworksecuritygroups-get
       parameters:
       - in: query
         name: No Name
@@ -974,7 +974,7 @@ paths:
       summary: Security Rules Delete
       description: Deletes the specified network security rule.
       operationId: SecurityRules_Delete
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworknetworksecuritygroupsnetworksecuritygroupnamesecurityrulessecurityrulename-delete
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networknetworksecuritygroupsnetworksecuritygroupnamesecurityrulessecurityrulename-delete
       parameters:
       - in: path
         name: networkSecurityGroupName
@@ -996,7 +996,7 @@ paths:
       summary: Security Rules Get
       description: Get the specified network security rule.
       operationId: SecurityRules_Get
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworknetworksecuritygroupsnetworksecuritygroupnamesecurityrulessecurityrulename-get
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networknetworksecuritygroupsnetworksecuritygroupnamesecurityrulessecurityrulename-get
       parameters:
       - in: path
         name: networkSecurityGroupName
@@ -1019,7 +1019,7 @@ paths:
       description: Creates or updates a security rule in the specified network security
         group.
       operationId: SecurityRules_CreateOrUpdate
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworknetworksecuritygroupsnetworksecuritygroupnamesecurityrulessecurityrulename-put
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networknetworksecuritygroupsnetworksecuritygroupnamesecurityrulessecurityrulename-put
       parameters:
       - in: path
         name: networkSecurityGroupName
@@ -1048,7 +1048,7 @@ paths:
       summary: Security Rules List
       description: Gets all security rules in a network security group.
       operationId: SecurityRules_List
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworknetworksecuritygroupsnetworksecuritygroupnamesecurityrules-get
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networknetworksecuritygroupsnetworksecuritygroupnamesecurityrules-get
       parameters:
       - in: path
         name: networkSecurityGroupName
@@ -1069,7 +1069,7 @@ paths:
       description: Creates or updates a network watcher in the specified resource
         group.
       operationId: NetworkWatchers_CreateOrUpdate
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworknetworkwatchersnetworkwatchername-put
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networknetworkwatchersnetworkwatchername-put
       parameters:
       - in: path
         name: networkWatcherName
@@ -1093,7 +1093,7 @@ paths:
       summary: Network Watchers Get
       description: Gets the specified network watcher by resource group.
       operationId: NetworkWatchers_Get
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworknetworkwatchersnetworkwatchername-get
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networknetworkwatchersnetworkwatchername-get
       parameters:
       - in: path
         name: networkWatcherName
@@ -1112,7 +1112,7 @@ paths:
       summary: Network Watchers Delete
       description: Deletes the specified network watcher resource.
       operationId: NetworkWatchers_Delete
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworknetworkwatchersnetworkwatchername-delete
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networknetworkwatchersnetworkwatchername-delete
       parameters:
       - in: path
         name: networkWatcherName
@@ -1132,7 +1132,7 @@ paths:
       summary: Network Watchers List
       description: Gets all network watchers by resource group.
       operationId: NetworkWatchers_List
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworknetworkwatchers-get
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networknetworkwatchers-get
       parameters:
       - in: query
         name: No Name
@@ -1149,7 +1149,7 @@ paths:
       summary: Network Watchers List All
       description: Gets all network watchers by subscription.
       operationId: NetworkWatchers_ListAll
-      x-api-path-slug: subscriptionssubscriptionidprovidersmicrosoftnetworknetworkwatchers-get
+      x-api-path-slug: subscriptionssubscriptionidprovidersmicrosoft-networknetworkwatchers-get
       parameters:
       - in: query
         name: No Name
@@ -1163,7 +1163,7 @@ paths:
       summary: Network Watchers Get Topology
       description: Gets the current network topology by resource group.
       operationId: NetworkWatchers_GetTopology
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworknetworkwatchersnetworkwatchernametopology-post
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networknetworkwatchersnetworkwatchernametopology-post
       parameters:
       - in: path
         name: networkWatcherName
@@ -1189,7 +1189,7 @@ paths:
       description: Verify IP flow from the specified VM to a location given the currently
         configured NSG rules.
       operationId: NetworkWatchers_VerifyIPFlow
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworknetworkwatchersnetworkwatchernameipflowverify-post
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networknetworkwatchersnetworkwatchernameipflowverify-post
       parameters:
       - in: path
         name: networkWatcherName
@@ -1214,7 +1214,7 @@ paths:
       summary: Network Watchers Get Next Hop
       description: Gets the next hop from the specified VM.
       operationId: NetworkWatchers_GetNextHop
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworknetworkwatchersnetworkwatchernamenexthop-post
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networknetworkwatchersnetworkwatchernamenexthop-post
       parameters:
       - in: path
         name: networkWatcherName
@@ -1240,7 +1240,7 @@ paths:
       description: Gets the configured and effective security group rules on the specified
         VM.
       operationId: NetworkWatchers_GetVMSecurityRules
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworknetworkwatchersnetworkwatchernamesecuritygroupview-post
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networknetworkwatchersnetworkwatchernamesecuritygroupview-post
       parameters:
       - in: path
         name: networkWatcherName
@@ -1265,7 +1265,7 @@ paths:
       summary: Packet Captures Create
       description: Create and start a packet capture on the specified VM.
       operationId: PacketCaptures_Create
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworknetworkwatchersnetworkwatchernamepacketcapturespacketcapturename-put
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networknetworkwatchersnetworkwatchernamepacketcapturespacketcapturename-put
       parameters:
       - in: path
         name: networkWatcherName
@@ -1292,7 +1292,7 @@ paths:
       summary: Packet Captures Get
       description: Gets a packet capture session by name.
       operationId: PacketCaptures_Get
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworknetworkwatchersnetworkwatchernamepacketcapturespacketcapturename-get
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networknetworkwatchersnetworkwatchernamepacketcapturespacketcapturename-get
       parameters:
       - in: path
         name: networkWatcherName
@@ -1314,7 +1314,7 @@ paths:
       summary: Packet Captures Delete
       description: Deletes the specified packet capture session.
       operationId: PacketCaptures_Delete
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworknetworkwatchersnetworkwatchernamepacketcapturespacketcapturename-delete
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networknetworkwatchersnetworkwatchernamepacketcapturespacketcapturename-delete
       parameters:
       - in: path
         name: networkWatcherName
@@ -1337,7 +1337,7 @@ paths:
       summary: Packet Captures Stop
       description: Stops a specified packet capture session.
       operationId: PacketCaptures_Stop
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworknetworkwatchersnetworkwatchernamepacketcapturespacketcapturenamestop-post
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networknetworkwatchersnetworkwatchernamepacketcapturespacketcapturenamestop-post
       parameters:
       - in: path
         name: networkWatcherName
@@ -1360,7 +1360,7 @@ paths:
       summary: Packet Captures Get Status
       description: Query the status of a running packet capture session.
       operationId: PacketCaptures_GetStatus
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworknetworkwatchersnetworkwatchernamepacketcapturespacketcapturenamequerystatus-post
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networknetworkwatchersnetworkwatchernamepacketcapturespacketcapturenamequerystatus-post
       parameters:
       - in: path
         name: networkWatcherName
@@ -1384,7 +1384,7 @@ paths:
       description: Lists all packet capture sessions within the specified resource
         group.
       operationId: PacketCaptures_List
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworknetworkwatchersnetworkwatchernamepacketcaptures-get
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networknetworkwatchersnetworkwatchernamepacketcaptures-get
       parameters:
       - in: path
         name: networkWatcherName
@@ -1404,7 +1404,7 @@ paths:
       summary: Network Watchers Get Troubleshooting
       description: Initiate troubleshooting on a specified resource
       operationId: NetworkWatchers_GetTroubleshooting
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworknetworkwatchersnetworkwatchernametroubleshoot-post
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networknetworkwatchersnetworkwatchernametroubleshoot-post
       parameters:
       - in: path
         name: networkWatcherName
@@ -1429,7 +1429,7 @@ paths:
       summary: Network Watchers Get Troubleshooting Result
       description: Get the last completed troubleshooting result on a specified resource
       operationId: NetworkWatchers_GetTroubleshootingResult
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworknetworkwatchersnetworkwatchernamequerytroubleshootresult-post
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networknetworkwatchersnetworkwatchernamequerytroubleshootresult-post
       parameters:
       - in: path
         name: networkWatcherName
@@ -1455,7 +1455,7 @@ paths:
       summary: Network Watchers Set Flow Log Configuration
       description: Configures flow log on a specified resource.
       operationId: NetworkWatchers_SetFlowLogConfiguration
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworknetworkwatchersnetworkwatchernameconfigureflowlog-post
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networknetworkwatchersnetworkwatchernameconfigureflowlog-post
       parameters:
       - in: path
         name: networkWatcherName
@@ -1480,7 +1480,7 @@ paths:
       summary: Network Watchers Get Flow Log Status
       description: Queries status of flow log on a specified resource.
       operationId: NetworkWatchers_GetFlowLogStatus
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworknetworkwatchersnetworkwatchernamequeryflowlogstatus-post
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networknetworkwatchersnetworkwatchernamequeryflowlogstatus-post
       parameters:
       - in: path
         name: networkWatcherName
@@ -1505,7 +1505,7 @@ paths:
       summary: Public IPAddresses Delete
       description: Deletes the specified public IP address.
       operationId: PublicIPAddresses_Delete
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworkpublicipaddressespublicipaddressname-delete
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networkpublicipaddressespublicipaddressname-delete
       parameters:
       - in: query
         name: No Name
@@ -1524,7 +1524,7 @@ paths:
       summary: Public IPAddresses Get
       description: Gets the specified public IP address in a specified resource group.
       operationId: PublicIPAddresses_Get
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworkpublicipaddressespublicipaddressname-get
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networkpublicipaddressespublicipaddressname-get
       parameters:
       - in: query
         name: $expand
@@ -1546,7 +1546,7 @@ paths:
       summary: Public IPAddresses Create Or Update
       description: Creates or updates a static or dynamic public IP address.
       operationId: PublicIPAddresses_CreateOrUpdate
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworkpublicipaddressespublicipaddressname-put
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networkpublicipaddressespublicipaddressname-put
       parameters:
       - in: query
         name: No Name
@@ -1572,7 +1572,7 @@ paths:
       summary: Public IPAddresses List All
       description: Gets all the public IP addresses in a subscription.
       operationId: PublicIPAddresses_ListAll
-      x-api-path-slug: subscriptionssubscriptionidprovidersmicrosoftnetworkpublicipaddresses-get
+      x-api-path-slug: subscriptionssubscriptionidprovidersmicrosoft-networkpublicipaddresses-get
       parameters:
       - in: query
         name: No Name
@@ -1586,7 +1586,7 @@ paths:
       summary: Public IPAddresses List
       description: Gets all public IP addresses in a resource group.
       operationId: PublicIPAddresses_List
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworkpublicipaddresses-get
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networkpublicipaddresses-get
       parameters:
       - in: query
         name: No Name
@@ -1603,7 +1603,7 @@ paths:
       summary: Route Filters Delete
       description: Deletes the specified route filter.
       operationId: RouteFilters_Delete
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworkroutefiltersroutefiltername-delete
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networkroutefiltersroutefiltername-delete
       parameters:
       - in: query
         name: No Name
@@ -1622,7 +1622,7 @@ paths:
       summary: Route Filters Get
       description: Gets the specified route filter.
       operationId: RouteFilters_Get
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworkroutefiltersroutefiltername-get
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networkroutefiltersroutefiltername-get
       parameters:
       - in: query
         name: $expand
@@ -1644,7 +1644,7 @@ paths:
       summary: Route Filters Create Or Update
       description: Creates or updates a route filter in a specified resource group.
       operationId: RouteFilters_CreateOrUpdate
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworkroutefiltersroutefiltername-put
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networkroutefiltersroutefiltername-put
       parameters:
       - in: query
         name: No Name
@@ -1668,7 +1668,7 @@ paths:
       summary: Route Filters Update
       description: Updates a route filter in a specified resource group.
       operationId: RouteFilters_Update
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworkroutefiltersroutefiltername-patch
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networkroutefiltersroutefiltername-patch
       parameters:
       - in: query
         name: No Name
@@ -1693,7 +1693,7 @@ paths:
       summary: Route Filters List By Resource Group
       description: Gets all route filters in a resource group.
       operationId: RouteFilters_ListByResourceGroup
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworkroutefilters-get
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networkroutefilters-get
       parameters:
       - in: query
         name: No Name
@@ -1710,7 +1710,7 @@ paths:
       summary: Route Filters List
       description: Gets all route filters in a subscription.
       operationId: RouteFilters_List
-      x-api-path-slug: subscriptionssubscriptionidprovidersmicrosoftnetworkroutefilters-get
+      x-api-path-slug: subscriptionssubscriptionidprovidersmicrosoft-networkroutefilters-get
       parameters:
       - in: query
         name: No Name
@@ -1724,7 +1724,7 @@ paths:
       summary: Route Filter Rules Delete
       description: Deletes the specified rule from a route filter.
       operationId: RouteFilterRules_Delete
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworkroutefiltersroutefilternameroutefilterrulesrulename-delete
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networkroutefiltersroutefilternameroutefilterrulesrulename-delete
       parameters:
       - in: query
         name: No Name
@@ -1746,7 +1746,7 @@ paths:
       summary: Route Filter Rules Get
       description: Gets the specified rule from a route filter.
       operationId: RouteFilterRules_Get
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworkroutefiltersroutefilternameroutefilterrulesrulename-get
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networkroutefiltersroutefilternameroutefilterrulesrulename-get
       parameters:
       - in: query
         name: No Name
@@ -1768,7 +1768,7 @@ paths:
       summary: Route Filter Rules Create Or Update
       description: Creates or updates a route in the specified route filter.
       operationId: RouteFilterRules_CreateOrUpdate
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworkroutefiltersroutefilternameroutefilterrulesrulename-put
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networkroutefiltersroutefilternameroutefilterrulesrulename-put
       parameters:
       - in: query
         name: No Name
@@ -1796,7 +1796,7 @@ paths:
       summary: Route Filter Rules Update
       description: Updates a route in the specified route filter.
       operationId: RouteFilterRules_Update
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworkroutefiltersroutefilternameroutefilterrulesrulename-patch
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networkroutefiltersroutefilternameroutefilterrulesrulename-patch
       parameters:
       - in: query
         name: No Name
@@ -1824,7 +1824,7 @@ paths:
       summary: Route Filter Rules List By Route Filter
       description: Gets all RouteFilterRules in a route filter.
       operationId: RouteFilterRules_ListByRouteFilter
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworkroutefiltersroutefilternameroutefilterrules-get
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networkroutefiltersroutefilternameroutefilterrules-get
       parameters:
       - in: query
         name: No Name
@@ -1844,7 +1844,7 @@ paths:
       summary: Route Tables Delete
       description: Deletes the specified route table.
       operationId: RouteTables_Delete
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworkroutetablesroutetablename-delete
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networkroutetablesroutetablename-delete
       parameters:
       - in: query
         name: No Name
@@ -1863,7 +1863,7 @@ paths:
       summary: Route Tables Get
       description: Gets the specified route table.
       operationId: RouteTables_Get
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworkroutetablesroutetablename-get
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networkroutetablesroutetablename-get
       parameters:
       - in: query
         name: $expand
@@ -1885,7 +1885,7 @@ paths:
       summary: Route Tables Create Or Update
       description: Create or updates a route table in a specified resource group.
       operationId: RouteTables_CreateOrUpdate
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworkroutetablesroutetablename-put
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networkroutetablesroutetablename-put
       parameters:
       - in: query
         name: No Name
@@ -1910,7 +1910,7 @@ paths:
       summary: Route Tables List
       description: Gets all route tables in a resource group.
       operationId: RouteTables_List
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworkroutetables-get
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networkroutetables-get
       parameters:
       - in: query
         name: No Name
@@ -1927,7 +1927,7 @@ paths:
       summary: Route Tables List All
       description: Gets all route tables in a subscription.
       operationId: RouteTables_ListAll
-      x-api-path-slug: subscriptionssubscriptionidprovidersmicrosoftnetworkroutetables-get
+      x-api-path-slug: subscriptionssubscriptionidprovidersmicrosoft-networkroutetables-get
       parameters:
       - in: query
         name: No Name
@@ -1941,7 +1941,7 @@ paths:
       summary: Routes Delete
       description: Deletes the specified route from a route table.
       operationId: Routes_Delete
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworkroutetablesroutetablenameroutesroutename-delete
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networkroutetablesroutetablenameroutesroutename-delete
       parameters:
       - in: query
         name: No Name
@@ -1963,7 +1963,7 @@ paths:
       summary: Routes Get
       description: Gets the specified route from a route table.
       operationId: Routes_Get
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworkroutetablesroutetablenameroutesroutename-get
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networkroutetablesroutetablenameroutesroutename-get
       parameters:
       - in: query
         name: No Name
@@ -1985,7 +1985,7 @@ paths:
       summary: Routes Create Or Update
       description: Creates or updates a route in the specified route table.
       operationId: Routes_CreateOrUpdate
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworkroutetablesroutetablenameroutesroutename-put
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networkroutetablesroutetablenameroutesroutename-put
       parameters:
       - in: query
         name: No Name
@@ -2013,7 +2013,7 @@ paths:
       summary: Routes List
       description: Gets all routes in a route table.
       operationId: Routes_List
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworkroutetablesroutetablenameroutes-get
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networkroutetablesroutetablenameroutes-get
       parameters:
       - in: query
         name: No Name
@@ -2033,7 +2033,7 @@ paths:
       summary: Bgp Service Communities List
       description: Gets all the available bgp service communities.
       operationId: BgpServiceCommunities_List
-      x-api-path-slug: subscriptionssubscriptionidprovidersmicrosoftnetworkbgpservicecommunities-get
+      x-api-path-slug: subscriptionssubscriptionidprovidersmicrosoft-networkbgpservicecommunities-get
       parameters:
       - in: query
         name: No Name
@@ -2047,7 +2047,7 @@ paths:
       summary: Usages List
       description: Lists compute usages for a subscription.
       operationId: Usages_List
-      x-api-path-slug: subscriptionssubscriptionidprovidersmicrosoftnetworklocationslocationusages-get
+      x-api-path-slug: subscriptionssubscriptionidprovidersmicrosoft-networklocationslocationusages-get
       parameters:
       - in: path
         name: location
@@ -2064,7 +2064,7 @@ paths:
       summary: Virtual Networks Delete
       description: Deletes the specified virtual network.
       operationId: VirtualNetworks_Delete
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworkvirtualnetworksvirtualnetworkname-delete
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networkvirtualnetworksvirtualnetworkname-delete
       parameters:
       - in: query
         name: No Name
@@ -2083,7 +2083,7 @@ paths:
       summary: Virtual Networks Get
       description: Gets the specified virtual network by resource group.
       operationId: VirtualNetworks_Get
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworkvirtualnetworksvirtualnetworkname-get
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networkvirtualnetworksvirtualnetworkname-get
       parameters:
       - in: query
         name: $expand
@@ -2106,7 +2106,7 @@ paths:
       description: Creates or updates a virtual network in the specified resource
         group.
       operationId: VirtualNetworks_CreateOrUpdate
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworkvirtualnetworksvirtualnetworkname-put
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networkvirtualnetworksvirtualnetworkname-put
       parameters:
       - in: query
         name: No Name
@@ -2131,7 +2131,7 @@ paths:
       summary: Virtual Networks List All
       description: Gets all virtual networks in a subscription.
       operationId: VirtualNetworks_ListAll
-      x-api-path-slug: subscriptionssubscriptionidprovidersmicrosoftnetworkvirtualnetworks-get
+      x-api-path-slug: subscriptionssubscriptionidprovidersmicrosoft-networkvirtualnetworks-get
       parameters:
       - in: query
         name: No Name
@@ -2145,7 +2145,7 @@ paths:
       summary: Virtual Networks List
       description: Gets all virtual networks in a resource group.
       operationId: VirtualNetworks_List
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworkvirtualnetworks-get
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networkvirtualnetworks-get
       parameters:
       - in: query
         name: No Name
@@ -2162,7 +2162,7 @@ paths:
       summary: Subnets Delete
       description: Deletes the specified subnet.
       operationId: Subnets_Delete
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworkvirtualnetworksvirtualnetworknamesubnetssubnetname-delete
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networkvirtualnetworksvirtualnetworknamesubnetssubnetname-delete
       parameters:
       - in: query
         name: No Name
@@ -2184,7 +2184,7 @@ paths:
       summary: Subnets Get
       description: Gets the specified subnet by virtual network and resource group.
       operationId: Subnets_Get
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworkvirtualnetworksvirtualnetworknamesubnetssubnetname-get
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networkvirtualnetworksvirtualnetworknamesubnetssubnetname-get
       parameters:
       - in: query
         name: $expand
@@ -2209,7 +2209,7 @@ paths:
       summary: Subnets Create Or Update
       description: Creates or updates a subnet in the specified virtual network.
       operationId: Subnets_CreateOrUpdate
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworkvirtualnetworksvirtualnetworknamesubnetssubnetname-put
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networkvirtualnetworksvirtualnetworknamesubnetssubnetname-put
       parameters:
       - in: query
         name: No Name
@@ -2237,7 +2237,7 @@ paths:
       summary: Subnets List
       description: Gets all subnets in a virtual network.
       operationId: Subnets_List
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworkvirtualnetworksvirtualnetworknamesubnets-get
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networkvirtualnetworksvirtualnetworknamesubnets-get
       parameters:
       - in: query
         name: No Name
@@ -2257,7 +2257,7 @@ paths:
       summary: Virtual Network Peerings Delete
       description: Deletes the specified virtual network peering.
       operationId: VirtualNetworkPeerings_Delete
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworkvirtualnetworksvirtualnetworknamevirtualnetworkpeeringsvirtualnetworkpeeringname-delete
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networkvirtualnetworksvirtualnetworknamevirtualnetworkpeeringsvirtualnetworkpeeringname-delete
       parameters:
       - in: query
         name: No Name
@@ -2279,7 +2279,7 @@ paths:
       summary: Virtual Network Peerings Get
       description: Gets the specified virtual network peering.
       operationId: VirtualNetworkPeerings_Get
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworkvirtualnetworksvirtualnetworknamevirtualnetworkpeeringsvirtualnetworkpeeringname-get
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networkvirtualnetworksvirtualnetworknamevirtualnetworkpeeringsvirtualnetworkpeeringname-get
       parameters:
       - in: query
         name: No Name
@@ -2301,7 +2301,7 @@ paths:
       summary: Virtual Network Peerings Create Or Update
       description: Creates or updates a peering in the specified virtual network.
       operationId: VirtualNetworkPeerings_CreateOrUpdate
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworkvirtualnetworksvirtualnetworknamevirtualnetworkpeeringsvirtualnetworkpeeringname-put
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networkvirtualnetworksvirtualnetworknamevirtualnetworkpeeringsvirtualnetworkpeeringname-put
       parameters:
       - in: query
         name: No Name
@@ -2330,7 +2330,7 @@ paths:
       summary: Virtual Network Peerings List
       description: Gets all virtual network peerings in a virtual network.
       operationId: VirtualNetworkPeerings_List
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworkvirtualnetworksvirtualnetworknamevirtualnetworkpeerings-get
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networkvirtualnetworksvirtualnetworknamevirtualnetworkpeerings-get
       parameters:
       - in: query
         name: No Name
@@ -2350,7 +2350,7 @@ paths:
       summary: Virtual Networks Check IPAddress Availability
       description: Checks whether a private IP address is available for use.
       operationId: VirtualNetworks_CheckIPAddressAvailability
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworkvirtualnetworksvirtualnetworknamecheckipaddressavailability-get
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networkvirtualnetworksvirtualnetworknamecheckipaddressavailability-get
       parameters:
       - in: query
         name: ipAddress
@@ -2374,7 +2374,7 @@ paths:
       description: Creates or updates a virtual network gateway in the specified resource
         group.
       operationId: VirtualNetworkGateways_CreateOrUpdate
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworkvirtualnetworkgatewaysvirtualnetworkgatewayname-put
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networkvirtualnetworkgatewaysvirtualnetworkgatewayname-put
       parameters:
       - in: query
         name: No Name
@@ -2399,7 +2399,7 @@ paths:
       summary: Virtual Network Gateways Get
       description: Gets the specified virtual network gateway by resource group.
       operationId: VirtualNetworkGateways_Get
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworkvirtualnetworkgatewaysvirtualnetworkgatewayname-get
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networkvirtualnetworkgatewaysvirtualnetworkgatewayname-get
       parameters:
       - in: query
         name: No Name
@@ -2418,7 +2418,7 @@ paths:
       summary: Virtual Network Gateways Delete
       description: Deletes the specified virtual network gateway.
       operationId: VirtualNetworkGateways_Delete
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworkvirtualnetworkgatewaysvirtualnetworkgatewayname-delete
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networkvirtualnetworkgatewaysvirtualnetworkgatewayname-delete
       parameters:
       - in: query
         name: No Name
@@ -2438,7 +2438,7 @@ paths:
       summary: Virtual Network Gateways List
       description: Gets all virtual network gateways by resource group.
       operationId: VirtualNetworkGateways_List
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworkvirtualnetworkgateways-get
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networkvirtualnetworkgateways-get
       parameters:
       - in: query
         name: No Name
@@ -2456,7 +2456,7 @@ paths:
       description: Resets the primary of the virtual network gateway in the specified
         resource group.
       operationId: VirtualNetworkGateways_Reset
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworkvirtualnetworkgatewaysvirtualnetworkgatewaynamereset-post
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networkvirtualnetworkgatewaysvirtualnetworkgatewaynamereset-post
       parameters:
       - in: query
         name: gatewayVip
@@ -2481,7 +2481,7 @@ paths:
       description: Generates VPN client package for P2S client of the virtual network
         gateway in the specified resource group.
       operationId: VirtualNetworkGateways_Generatevpnclientpackage
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworkvirtualnetworkgatewaysvirtualnetworkgatewaynamegeneratevpnclientpackage-post
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networkvirtualnetworkgatewaysvirtualnetworkgatewaynamegeneratevpnclientpackage-post
       parameters:
       - in: query
         name: No Name
@@ -2508,7 +2508,7 @@ paths:
       description: The GetBgpPeerStatus operation retrieves the status of all BGP
         peers.
       operationId: VirtualNetworkGateways_GetBgpPeerStatus
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworkvirtualnetworkgatewaysvirtualnetworkgatewaynamegetbgppeerstatus-post
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networkvirtualnetworkgatewaysvirtualnetworkgatewaynamegetbgppeerstatus-post
       parameters:
       - in: query
         name: No Name
@@ -2532,7 +2532,7 @@ paths:
       description: This operation retrieves a list of routes the virtual network gateway
         has learned, including routes learned from BGP peers.
       operationId: VirtualNetworkGateways_GetLearnedRoutes
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworkvirtualnetworkgatewaysvirtualnetworkgatewaynamegetlearnedroutes-post
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networkvirtualnetworkgatewaysvirtualnetworkgatewaynamegetlearnedroutes-post
       parameters:
       - in: query
         name: No Name
@@ -2553,7 +2553,7 @@ paths:
       description: This operation retrieves a list of routes the virtual network gateway
         is advertising to the specified peer.
       operationId: VirtualNetworkGateways_GetAdvertisedRoutes
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworkvirtualnetworkgatewaysvirtualnetworkgatewaynamegetadvertisedroutes-post
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networkvirtualnetworkgatewaysvirtualnetworkgatewaynamegetadvertisedroutes-post
       parameters:
       - in: query
         name: No Name
@@ -2577,7 +2577,7 @@ paths:
       description: Creates or updates a virtual network gateway connection in the
         specified resource group.
       operationId: VirtualNetworkGatewayConnections_CreateOrUpdate
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworkconnectionsvirtualnetworkgatewayconnectionname-put
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networkconnectionsvirtualnetworkgatewayconnectionname-put
       parameters:
       - in: query
         name: No Name
@@ -2603,7 +2603,7 @@ paths:
       description: Gets the specified virtual network gateway connection by resource
         group.
       operationId: VirtualNetworkGatewayConnections_Get
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworkconnectionsvirtualnetworkgatewayconnectionname-get
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networkconnectionsvirtualnetworkgatewayconnectionname-get
       parameters:
       - in: query
         name: No Name
@@ -2622,7 +2622,7 @@ paths:
       summary: Virtual Network Gateway Connections Delete
       description: Deletes the specified virtual network Gateway connection.
       operationId: VirtualNetworkGatewayConnections_Delete
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworkconnectionsvirtualnetworkgatewayconnectionname-delete
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networkconnectionsvirtualnetworkgatewayconnectionname-delete
       parameters:
       - in: query
         name: No Name
@@ -2645,7 +2645,7 @@ paths:
         gateway connection in the specified resource group through Network resource
         provider.
       operationId: VirtualNetworkGatewayConnections_SetSharedKey
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworkconnectionsvirtualnetworkgatewayconnectionnamesharedkey-put
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networkconnectionsvirtualnetworkgatewayconnectionnamesharedkey-put
       parameters:
       - in: query
         name: No Name
@@ -2672,7 +2672,7 @@ paths:
         information about the specified virtual network gateway connection shared
         key through Network resource provider.
       operationId: VirtualNetworkGatewayConnections_GetSharedKey
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworkconnectionsvirtualnetworkgatewayconnectionnamesharedkey-get
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networkconnectionsvirtualnetworkgatewayconnectionnamesharedkey-get
       parameters:
       - in: query
         name: No Name
@@ -2693,7 +2693,7 @@ paths:
       description: The List VirtualNetworkGatewayConnections operation retrieves all
         the virtual network gateways connections created.
       operationId: VirtualNetworkGatewayConnections_List
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworkconnections-get
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networkconnections-get
       parameters:
       - in: query
         name: No Name
@@ -2713,7 +2713,7 @@ paths:
         gateway connection in the specified resource group through Network resource
         provider.
       operationId: VirtualNetworkGatewayConnections_ResetSharedKey
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworkconnectionsvirtualnetworkgatewayconnectionnamesharedkeyreset-post
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networkconnectionsvirtualnetworkgatewayconnectionnamesharedkeyreset-post
       parameters:
       - in: query
         name: No Name
@@ -2740,7 +2740,7 @@ paths:
       description: Creates or updates a local network gateway in the specified resource
         group.
       operationId: LocalNetworkGateways_CreateOrUpdate
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworklocalnetworkgatewayslocalnetworkgatewayname-put
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networklocalnetworkgatewayslocalnetworkgatewayname-put
       parameters:
       - in: path
         name: localNetworkGatewayName
@@ -2765,7 +2765,7 @@ paths:
       summary: Local Network Gateways Get
       description: Gets the specified local network gateway in a resource group.
       operationId: LocalNetworkGateways_Get
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworklocalnetworkgatewayslocalnetworkgatewayname-get
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networklocalnetworkgatewayslocalnetworkgatewayname-get
       parameters:
       - in: path
         name: localNetworkGatewayName
@@ -2784,7 +2784,7 @@ paths:
       summary: Local Network Gateways Delete
       description: Deletes the specified local network gateway.
       operationId: LocalNetworkGateways_Delete
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworklocalnetworkgatewayslocalnetworkgatewayname-delete
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networklocalnetworkgatewayslocalnetworkgatewayname-delete
       parameters:
       - in: path
         name: localNetworkGatewayName
@@ -2804,7 +2804,7 @@ paths:
       summary: Local Network Gateways List
       description: Gets all the local network gateways in a resource group.
       operationId: LocalNetworkGateways_List
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftnetworklocalnetworkgateways-get
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-networklocalnetworkgateways-get
       parameters:
       - in: query
         name: No Name
@@ -2822,7 +2822,7 @@ paths:
       description: Gets information about all network interfaces in a virtual machine
         in a virtual machine scale set.
       operationId: NetworkInterfaces_ListVirtualMachineScaleSetVMNetworkInterfaces
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftcomputevirtualmachinescalesetsvirtualmachinescalesetnamevirtualmachinesvirtualmachineindexnetworkinterfaces-get
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-computevirtualmachinescalesetsvirtualmachinescalesetnamevirtualmachinesvirtualmachineindexnetworkinterfaces-get
       parameters:
       - in: query
         name: api-version
@@ -2848,7 +2848,7 @@ paths:
       summary: Network Interfaces List Virtual Machine Scale Set Network Interfaces
       description: Gets all network interfaces in a virtual machine scale set.
       operationId: NetworkInterfaces_ListVirtualMachineScaleSetNetworkInterfaces
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftcomputevirtualmachinescalesetsvirtualmachinescalesetnamenetworkinterfaces-get
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-computevirtualmachinescalesetsvirtualmachinescalesetnamenetworkinterfaces-get
       parameters:
       - in: query
         name: api-version
@@ -2872,7 +2872,7 @@ paths:
       description: Get the specified network interface in a virtual machine scale
         set.
       operationId: NetworkInterfaces_GetVirtualMachineScaleSetNetworkInterface
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftcomputevirtualmachinescalesetsvirtualmachinescalesetnamevirtualmachinesvirtualmachineindexnetworkinterfacesnetworkinterfacename-get
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-computevirtualmachinescalesetsvirtualmachinescalesetnamevirtualmachinesvirtualmachineindexnetworkinterfacesnetworkinterfacename-get
       parameters:
       - in: query
         name: $expand
